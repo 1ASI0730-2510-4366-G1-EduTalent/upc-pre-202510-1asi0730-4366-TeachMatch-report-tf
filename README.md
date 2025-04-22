@@ -4,8 +4,11 @@
 En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 
 ### 1.1.1. Descripción de la Startup
+TeachMatch está diseñado para optimizar el proceso de selección y seguimiento del personal docente en una institución educativa. Incluye un módulo de Gestión de Vacantes, donde se publican las ofertas de enseñanza, se reciben postulaciones directamente y se filtran candidatos con base en su experiencia y especialización académica. El módulo de Evaluación de Candidatos integra pruebas pedagógicas y psicométricas, entrevistas automatizadas con preguntas predefinidas y la generación de reportes que incluyen puntuaciones y análisis de compatibilidad con el perfil requerido.
 
+Una vez contratados, el módulo de Seguimiento de Nuevos Docentes permite ofrecer una capacitación inicial a través de cursos en línea o materiales institucionales, realizar evaluaciones de desempeño durante los primeros meses e incentivar el intercambio de feedback entre docentes y directivos. A esto se suma la Administración de Contratos y Documentación, que facilita la creación y gestión de contratos, el almacenamiento seguro de documentación laboral y el envío automático de alertas para la renovación de contratos.
 
+Por otro lado, la Planificación y Asignación de Horarios automatiza la asignación de materias según la disponibilidad y perfil de los docentes, integrándose con los calendarios institucionales y registrando la carga horaria y asistencia. Finalmente, la Gestión de Desempeño y Evaluaciones Continuas permite realizar evaluaciones periódicas del desempeño docente, aplicar encuestas de satisfacción a estudiantes y directivos, y generar reportes con indicadores clave de rendimiento, asegurando un monitoreo constante de la calidad educativa.
 
 - **Misión:** 
 
