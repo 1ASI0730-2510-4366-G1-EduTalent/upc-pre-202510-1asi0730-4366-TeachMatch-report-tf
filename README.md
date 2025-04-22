@@ -10,10 +10,10 @@ Una vez contratados, el módulo de Seguimiento de Nuevos Docentes permite ofrece
 
 Por otro lado, la Planificación y Asignación de Horarios automatiza la asignación de materias según la disponibilidad y perfil de los docentes, integrándose con los calendarios institucionales y registrando la carga horaria y asistencia. Finalmente, la Gestión de Desempeño y Evaluaciones Continuas permite realizar evaluaciones periódicas del desempeño docente, aplicar encuestas de satisfacción a estudiantes y directivos, y generar reportes con indicadores clave de rendimiento, asegurando un monitoreo constante de la calidad educativa.
 
-- **Misión:** 
-
-- **Visión:**
-
+- **Misión:** Mejorar la calidad educativa mediante una plataforma que integra y optimiza la selección, contratación y seguimiento del talento docente, conectando instituciones con profesionales capacitados, fomentando así el desarrollo continuo y garantizando una enseñanza de excelencia.
+---
+- **Visión:** Ser la plataforma líder en gestión docente en Latinoamérica, transformando la forma en que las instituciones educativas identifican, contratan y desarrollan a sus profesores, asegurando una educación de calidad y sostenible a través de la tecnología.
+---
 **Logotipo del servicio**
 
 
