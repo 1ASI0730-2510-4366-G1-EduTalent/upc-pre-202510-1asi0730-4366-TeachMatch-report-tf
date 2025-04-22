@@ -13,7 +13,7 @@ Por otro lado, la Planificación y Asignación de Horarios automatiza la asignac
 - **Misión:** Mejorar la calidad educativa mediante una plataforma que integra y optimiza la selección, contratación y seguimiento del talento docente, conectando instituciones con profesionales capacitados, fomentando así el desarrollo continuo y garantizando una enseñanza de excelencia.
 - **Visión:** Ser la plataforma líder en gestión docente en Latinoamérica, transformando la forma en que las instituciones educativas identifican, contratan y desarrollan a sus profesores, asegurando una educación de calidad y sostenible a través de la tecnología.
 **Logotipo del servicio**
-[![MockupWebApp1](assets/TeachMatchLogo.png)]](https://github.com/1ASI0730-2510-4366-G1-EduTalent/upc-pre-202510-1asi0730-4366-TeachMatch-report-tf/tree/77bb28cc73d7b1a1b256c7618354f1ed8d5fec31/assets)
+![Image_Alt](https://github.com/1ASI0730-2510-4366-G1-EduTalent/upc-pre-202510-1asi0730-4366-TeachMatch-report-tf/blob/c0a31a809ad525a5d6941a19e0733fc7b22afac1/assets/TeachMatchLogo.jpg)
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
