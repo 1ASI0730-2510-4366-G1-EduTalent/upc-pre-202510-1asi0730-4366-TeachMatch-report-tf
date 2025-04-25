@@ -269,7 +269,8 @@ Teniendo en cuenta el análisis competitivo, se han desarrollado las siguientes 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 
-![UserLuis](URL-de-la-imagen)
+User persona profesor (de matematicas, por ejemplo)
+![UserLuis](assets/UserLuis.png)
 
 
 ### 2.3.2. User Task Matrix
