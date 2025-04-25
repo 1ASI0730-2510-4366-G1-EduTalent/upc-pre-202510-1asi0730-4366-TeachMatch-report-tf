@@ -9,62 +9,60 @@
         <tr>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>¿Por qué llevar a cabo este análisis?</strong></td>
             <td colspan="5" style="border: 1px solid black; padding: 8px; vertical-align: top;">
-                Comprender cómo se diferencia InfluMatch de sus principales competidores, identificar oportunidades de mejora y validar nuestra ventaja competitiva para optimizar la estrategia de producto y comercialización.
+                Comprender cómo se diferencia TeachMatch de sus principales competidores, identificar oportunidades de mejora y validar nuestra ventaja competitiva para optimizar la estrategia de producto y comercialización.
             </td>
         </tr>
         <tr>
             <td colspan="2" style="border: 1px solid black; padding: 8px; vertical-align: top;">Marca y Logo</td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>InfluMatch</strong><br><img src="../../assets/InfluMatchLogo.png" alt="InfluMatch Logo" style="max-width:100px; margin-top:8px;"></td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Heepsy</strong><br><img src="../../assets/HeepsyLogo.png" alt="Heepsy Logo" style="max-width:100px; margin-top:8px;"></td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>CreatorIQ</strong><br><img src="../../assets/CreatorIQ.png" alt="CreatorIQ Logo" style="max-width:100px; margin-top:8px;"></td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Upfluence</strong><br><img src="../../assets/UpfluenceLogo.png" alt="Upfluence Logo" style="max-width:100px; margin-top:8px;"></td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>TeachMatch</strong><br><img src="../chapter2/assets/TeachMatchLogo.jpg" alt="TeachMatch Logo" style="max-width:100px; margin-top:8px;"></td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Edutalent</strong><br><img src="../chapter2/assets/EdutalentLogo.jpeg" alt="Edutalent Logo" style="max-width:100px; margin-top:8px;"></td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Worky</strong><br><img src="../chapter2/assets/WorkyLogo.jpeg" alt="Worky Logo" style="max-width:100px; margin-top:8px;"></td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Talent.com</strong><br><img src="../chapter2/assets/TalentLogo.png" alt="Talent Logo" style="max-width:100px; margin-top:8px;"></td>
         </tr>
         <tr>
             <td rowspan="2" style="border: 1px solid black; padding: 8px; vertical-align: top; width: 15%;"><strong>Perfil</strong></td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Overview</strong></td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
-                InfluMatch se destaca por conectar influencers y marcas de manera accesible y sencilla, automatizando la validación de perfiles, la gestión de contratos digitales, la comunicación interna y el análisis de resultados en tiempo real.
+                Plataforma web que optimiza la contratación, evaluación y seguimiento de docentes en instituciones educativas.
             </td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
-                Directorio global de más de 11 M de influencers con filtros por engagement, ubicación y nicho.
+                Plataforma latinoamericana enfocada en reclutamiento y formación de talento educativo.
             </td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
-                Solución enterprise para grandes marcas y agencias, con gestión completa de campañas y reporting avanzado.
+                Herramienta general de gestión de talento, utilizada también por escuelas.
             </td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
-                Suite orientada a e‑commerce y DTC que vincula actividad de influencers con ventas online y social commerce.
+                Portal de empleo global con categoría específica para educación, que conecta vacantes con docentes.
             </td>
         </tr>
         <tr>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Ventaja competitiva</strong><br>¿Qué valor ofrece a los clientes?</td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
                 <ul style="margin:0 0 0 16px; padding:0;">
-                    <li>Validación automática de perfiles y engagement vía APIs sociales.</li>
-                    <li>Matching predictivo con IA.</li>
-                    <li>Contratos 100 % digitales.</li>
-                    <li>Gamificación y feedback post‑campaña.</li>
-                    <li>Seguridad antifraude.</li>
+                    <li>Flujo integral de contratación hasta el desempeño.</li>
+                    <li>Pruebas automatizadas.</li>
+                    <li>Horarios.</li>
+                    <li>Seguimiento.</li>
                 </ul>
             </td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
                 <ul style="margin:0 0 0 16px; padding:0;">
-                    <li>Búsqueda rápida y freemium de micro‑influencers.</li>
-                    <li>API para integración de datos.</li>
-                    <li>Base de datos actualizada en tiempo real.</li>
+                    <li>Foco en talento educativo.</li>
+                    <li>Evaluaciones previas.</li>
+                    <li>Acceso a formaciones.</li>
                 </ul>
             </td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
                 <ul style="margin:0 0 0 16px; padding:0;">
-                    <li>Atribución multi‑touch y paneles configurables.</li>
-                    <li>Integraciones nativas con Salesforce, Adobe y BI.</li>
-                    <li>Soporte SLA 24/7.</li>
+                    <li>Automatización general en RR.HH..</li>
+                    <li>Interfaz intuitiva.</li>
                 </ul>
             </td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
                 <ul style="margin:0 0 0 16px; padding:0;">
-                    <li>Plugins para Shopify, Magento y WooCommerce.</li>
-                    <li>Automatización de remarketing en social commerce.</li>
-                    <li>Marketplace interno de creadores.</li>
+                    <li>Alta visibilidad de vacantes.</li>
+                    <li>Amplia base de usuarios.</li>
+                    <li>Segmentación por país y área académica.</li>
                 </ul>
             </td>
         </tr>
@@ -72,50 +70,41 @@
             <td rowspan="2" style="border: 1px solid black; padding: 8px; vertical-align: top; width: 15%;"><strong>Perfil de Marketing</strong></td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Mercado objetivo</strong></td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
-                <ul style="margin:0 0 0 16px; padding:0;">
-                    <li>PYMEs, startups y grandes corporaciones que buscan colaboraciones auténticas y medibles.</li>
-                    <li>Influencers (micro, medianos, macro y celebridades) con comunidades activas.</li>
-                </ul>
+                Instituciones educativas, departamentos de RR.HH. académicos y docentes aspirantes.
             </td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
-                PYMEs, startups y agencias emergentes en busca de un buscador asequible y freemium.
+                Escuelas y universidades en Latinoamérica.
             </td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
-                Grandes corporativos y agencias globales con altos volúmenes de campañas e integraciones B2B.
+                Empresas de múltiples sectores, incluyendo algunas escuelas privadas.
             </td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
-                Marcas DTC y tiendas online que vinculan influencers con ventas y remarketing.
+                Docentes en búsqueda de empleo y escuelas que buscan visibilidad para sus ofertas laborales.
             </td>
         </tr>
         <tr>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Estrategias de marketing</strong></td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
                 <ul style="margin:0 0 0 16px; padding:0;">
-                    <li>Webinars y tutoriales.</li>
-                    <li>Casos de éxito en LinkedIn y YouTube.</li>
-                    <li>Alianzas con comunidades de creadores.</li>
-                    <li>Programa “InfluMatch Certified”.</li>
+                    <li>Alianzas institucionales.</li>
+                    <li>Presencia en ferias educativas.</li>
+                    <li>Inbound marketing con contenido especializado.</li>
                 </ul>
             </td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
                 <ul style="margin:0 0 0 16px; padding:0;">
-                    <li>SEO y blog educativo.</li>
-                    <li>Plan de referidos freemium.</li>
-                    <li>Tutoriales en YouTube.</li>
+                    <li>Promoción en redes educativas.</li>
+                    <li>Webinars y participación en eventos de educación.</li>
                 </ul>
             </td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
-                <ul style="margin:0 0 0 16px; padding:0;">
-                    <li>Conferencias globales (CES, Cannes Lions).</li>
-                    <li>ABM y co‑marketing con partners tecnológicos.</li>
-                </ul>
+                Marketing digital y posicionamiento como software de RR.HH. eficiente.
             </td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
                 <ul style="margin:0 0 0 16px; padding:0;">
-                    <li>Casos de estudio de social commerce.</li>
-                    <li>Email automation.</li>
-                    <li>Alianzas con marketplaces regionales.</li>
-                    <li>Webinars de e‑commerce.</li>
+                    <li>Publicidad en motores de búsqueda.</li>
+                    <li>Redes sociales.</li>
+                    <li>Convenios con universidades.</li>
                 </ul>
             </td>
         </tr>
@@ -124,92 +113,137 @@
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Productos & Servicios</strong></td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
                 <ul style="margin:0 0 0 16px; padding:0;">
-                    <li>Matching IA.</li>
-                    <li>Validación automática (APIs).</li>
-                    <li>Contratos digitales.</li>
-                    <li>Mensajería interna.</li>
-                    <li>Dashboard de reputación y badges.</li>
-                    <li>Feedback y reseñas.</li>
-                    <li>Seguridad antifraude.</li>
+                    <li>Publicación de vacantes.</li>
+                    <li>Evaluación psicopedagógica.</li>
+                    <li>Gestión de contratos.</li>
+                    <li>Horarios y desempeño.</li>
                 </ul>
             </td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
-                Búsqueda con filtros avanzados, rankings de engagement, exportación CSV/Excel y alertas de métricas.
+                <ul style="margin:0 0 0 16px; padding:0;">
+                    <li>Plataforma de vacantes.</li>
+                    <li>Cursos Online.</li>
+                    <li>Tests de compatibilidad.</li>
+                    <li>Horarios y desempeño.</li>
+                </ul>
             </td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
-                Gestión end‑to‑end de campañas, propuestas, firma digital, pagos integrados y reporting.
+                <ul style="margin:0 0 0 16px; padding:0;">
+                    <li>Módulos de contratación.</li>
+                    <li>Control documental.</li>
+                    <li>Desempeño y nómina.</li>
+                    <li>Horarios y desempeño.</li>
+                </ul>
             </td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
-                Segmentación automática, plugins de e‑commerce, análisis de ventas post‑campaña y remarketing social.
+                <ul style="margin:0 0 0 16px; padding:0;">
+                    <li>Motor de búsqueda de empleo por categoría.</li>
+                    <li>Alertas de vacantes.</li>
+                    <li>Opción de publicación paga por instituciones.</li>
+                </ul>
             </td>
         </tr>
         <tr>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Precios & Costos</strong></td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Suscripción Premium + 5 % de comisión por campaña.</td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Freemium (hasta 1 000 búsquedas/mes), Pro desde USD 49/mes, Enterprise a medida.</td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Enterprise desde USD 5 000/mes (volumen y SLA).</td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">USD 99/mes por usuario + 2 % de ventas generadas.</td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Freemium para instituciones pequeñas; licencias escalables por número de docentes o sedes.</td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Planes por institución; algunos servicios con costo adicional.</td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Modelo SaaS con precios según tamaño de empresa.</td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Publicación gratuita con opción premium para destacar vacantes.</td>
         </tr>
         <tr>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Canales de distribución</strong><br>(Web y/o Móvil)</td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Web responsive; apps iOS/Android para campo.</td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Solo plataforma web.</td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Plataforma web + app móvil para alertas.</td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Web responsive + plugins para Shopify, Magento y WooCommerce.</td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Web y movil. Integración con calendarios y herramientas educativas</td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Web y movil.</td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Web y movil..</td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Web y movil.</td>
         </tr>
         <tr>
             <td rowspan="4" style="border: 1px solid black; padding: 8px; vertical-align: top; width: 15%;"><strong>Análisis SWOT</strong></td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Fortalezas</strong></td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
                 <ul style="margin:0 0 0 16px; padding:0;">
-                    <li>Matching y validación automáticos.</li>
-                    <li>Contratos digitales.</li>
-                    <li>Reputación gamificada.</li>
-                    <li>UX intuitiva.</li>
+                    <li>Especialización 100% en el ámbito educativo. Flujo completo desde la vacante hasta la evaluación de desempeño.</li>
+                    <li>Evaluaciones pedagógicas y psicométricas integradas. Interfaz intuitiva, multirrol y adaptable al contexto escolar.</li>
                 </ul>
             </td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Base de datos masiva; plan freemium; API abierta.</td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Funcionalidades enterprise completas; reporting detallado; soporte SLA.</td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Integración e‑commerce; social commerce automatizado; marketplace.</td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
+                    <ul style="margin:0 0 0 16px; padding:0;">
+                    <li>Foco exclusivo en talento educativo. Plataforma conocida en algunos países de Latinoamérica.</li>
+                    <li>Evaluaciones y cursos formativos integrados. Base de datos de docentes activos.</li>
+                </ul>
+            </td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
+                    <ul style="margin:0 0 0 16px; padding:0;">
+                    <li>Plataforma SaaS establecida con buena interfaz. Automatización de procesos de RR.HH. y documentación.</li>
+                    <li>Aplicable a múltiples sectores, incluyendo educación.</li>
+                </ul>        
+            </td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
+                    <ul style="margin:0 0 0 16px; padding:0;">
+                    <li>Gran base de usuarios y visibilidad global. Posicionamiento SEO y segmentación por sector, país y puesto.</li>
+                    <li>Modelo de publicación simple y escalable.</li>
+                </ul>
+            </td>
         </tr>
         <tr>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Debilidades</strong></td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
-                <ul style="margin:0 0 0 16px; padding:0;">
-                    <li>Comunidad incipiente.</li>
-                    <li>Dependencia de APIs externas.</li>
-                    <li>Gamificación en adopción.</li>
+                Baja notoriedad de marca frente a grandes plataformas. Requiere alianzas para ampliar su base institucional.
+            </td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
+                    <ul style="margin:0 0 0 16px; padding:0;">
+                    <li>Poca integración con procesos como horarios, contratos y seguimiento post-contratación.</li>
+                    <li>Limitada cobertura fuera de Latinoamérica.</li>
                 </ul>
             </td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Analítica limitada; sin medición offline.</td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Costes elevados; curva de aprendizaje alta.</td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Enfoque muy centrado en e‑commerce; sin tracking offline.</td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
+                    <ul style="margin:0 0 0 16px; padding:0;">
+                    <li>No está diseñada específicamente para educación. Carece de módulos pedagógicos, académicos o de seguimiento docente.</li>
+                    <li>Poca personalización en cuanto a procesos educativos.</li>
+                </ul>
+            </td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
+                    <ul style="margin:0 0 0 16px; padding:0;">
+                    <li>No ofrece herramientas para evaluación ni seguimiento. No hay conexión directa con procesos escolares internos.</li>
+                    <li>Solo conecta vacantes, sin gestión posterior al reclutamiento.</li>
+                </ul>
+            </td>
         </tr>
         <tr>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Oportunidades</strong></td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
                 <ul style="margin:0 0 0 16px; padding:0;">
-                    <li>Demanda creciente de ROI medible.</li>
-                    <li>Alianzas con comunidades de creadores.</li>
-                    <li>Profesionalización del sector.</li>
+                    <li>Creciente digitalización en escuelas y universidades. Posibilidad de convertirse en referente en gestión docente.</li>
+                    <li>Falta de competencia directa con flujo tan integral como el de TeachMatch.</li>
                 </ul>
             </td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Crecimiento de nano‑influencers; adopción de freemium en mercados emergentes.</td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Consolidación de soluciones enterprise; interés en atribución multi‑touch.</td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Auge del livestream shopping; integración con marketplaces regionales.</td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
+                    Aumentar integración con instituciones educativas mediante alianzas. Potencial para agregar seguimiento docente.
+            </td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
+                    Expandirse al sector educativo con más funciones específicas. Integrar módulos pedagógicos o académicos.
+            </td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
+                    <ul style="margin:0 0 0 16px; padding:0;">
+                    <li>Expansión en herramientas educativas si deciden invertir en este nicho.</li>
+                    <li>Alianzas con ministerios o redes educativas para centralizar vacantes.</li>
+                </ul>
+            </td>
         </tr>
         <tr>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Amenazas</strong></td>
             <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
-                <ul style="margin:0 0 0 16px; padding:0;">
-                    <li>Competidores incorporando funciones similares.</li>
-                    <li>Cambios en políticas de APIs sociales.</li>
-                    <li>Nuevas startups con IA especializada.</li>
-                </ul>
+                Plataformas de empleo generalistas (como Talent.com) con gran base de usuarios. Software de RR.HH. con más inversión.
             </td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Saturación del modelo freemium; nuevas herramientas con IA avanzada.</td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Fusiones en el sector B2B; normativas de privacidad (GDPR, CCPA).</td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">Herramientas low‑cost para PYMEs; cambios en APIs de plataformas sociales.</td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
+                    Plataformas con más presupuesto y cobertura global. Soluciones integradas que la superan en automatización.
+            </td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
+                    La entrada de plataformas verticales (como TeachMatch) que entienden mejor las necesidades del sector educativo.
+            </td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;">
+                    Soluciones educativas especializadas (como TeachMatch o Edutalent) que ofrecen más que solo publicación de vacantes.
+            </td>
         </tr>
 </table>
 
