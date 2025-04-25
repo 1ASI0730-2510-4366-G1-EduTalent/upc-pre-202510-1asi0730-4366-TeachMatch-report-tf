@@ -264,7 +264,7 @@ Teniendo en cuenta el análisis competitivo, se han desarrollado las siguientes 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 **Segmento Objetivo 1: Instituciones Educativas**
-Se inicia pidiendo que se presenten.
+* Se inicia pidiendo que se presenten.
 1. ¿Cómo gestionan actualmente el proceso de contratación docente?
 2. ¿Qué dificultades enfrentan al momento de evaluar a los candidatos?
 3. ¿Utilizan alguna herramienta digital para organizar horarios, desempeño o documentos?
@@ -274,7 +274,7 @@ Se inicia pidiendo que se presenten.
 7. ¿Qué funcionalidades valoraría más en una plataforma que gestione todo el ciclo docente?
 
 **Segmento Objetivo 2: Docentes y practicantes**
-Se inicia pidiendo que se presenten.
+* Se inicia pidiendo que se presenten.
 1. ¿Dónde sueles buscar ofertas laborales como docente? ¿Qué plataformas usas?
 2. ¿Qué aspectos valoras más al postularte a una institución educativa?
 3. ¿Te gustaría tener un historial de tu desarrollo y desempeño como docente dentro de una plataforma?
