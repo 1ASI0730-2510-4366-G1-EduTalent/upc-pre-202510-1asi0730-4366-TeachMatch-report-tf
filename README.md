@@ -335,6 +335,10 @@ _Busca mejorar la eficiencia de su gestion de docentes y unificar las herramient
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 
+Empathy map de Docente
+
+![EmpathyLuis](assets/EmpathyLuis.png)
+
 Empathy map de Directora (Institucion educativa)
 
 ![EmpathyKatherine](assets/EmpathyKatherine.png)
