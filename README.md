@@ -169,7 +169,8 @@ Sabemos que hemos tenido exito cuando los procesos de contratacion sean mas rapi
 
 
 ## 1.3. Segmentos objetivos.
-**a**   
+**a Instituciones Educativas:**
+Colegios y universidades privadas que buscan mejorar la eficiencia de sus procesos internos y garantizar una contratación docente de calidad.
 
-
-**b**  
+**b Docentes y Aspirantes:**
+Profesionales de la educación, tanto con experiencia como recién egresados, que buscan oportunidades laborales en instituciones educativas de distintos niveles.
