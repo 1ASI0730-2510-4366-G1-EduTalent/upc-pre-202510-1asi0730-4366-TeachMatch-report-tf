@@ -272,8 +272,46 @@ Teniendo en cuenta el análisis competitivo, se han desarrollado las siguientes 
 User persona profesor (de matematicas, por ejemplo)
 ![UserLuis](assets/UserLuis.png)
 
+User persona Directora (Institucion educativa)
+![UserKatherine](assets/UserKatherine.png)
 
 ### 2.3.2. User Task Matrix
+## Perfil 1: Profesor de Matematica
+_Busca ofertas laborales y una plataforma para conseguir empleo_
+
+| User Task                                                                          | Frequency | Importance |
+| ---------------------------------------------------------------------------------- | --------- | ---------- |
+| Postular a vacantes disponibles	                                             | Sometimes | High       |
+| Completar evaluaciones pedagógicas/psicométricas	                             | Sometimes | High       |
+| Ver resultados de campañas o entrevistas	                                     | Sometimes | Medium     |
+| Consultar horarios de clases/asignaciones                                          | Often     | High       |
+| Descargar contrato u otros documentos laborales                                    | Rarely    | Medium     |
+| Ver feedback o evaluaciones de desempeño                                           | Sometimes | High       |
+| Acceder a materiales de capacitación inicial                                       | Rarely    | Medium     |
+| Recibir notificaciones importantes (ej. cambios)                                   | Often     | High       |
+| Ver su propio perfil o historial laboral                                           | Sometimes | Medium     |
+| Editar datos personales o profesionales                                            | Rarely    | Low        |
+
+---
+
+## Perfil 2: Directora de Institucion
+_Busca mejorar la eficiencia de su gestion de docentes y unificar las herramientas usadas en una sola plataforma_
+
+| User Task                                                                             | Frequency | Importance |
+| ------------------------------------------------------------------------------------- | --------- | ---------- |
+| Publicar vacantes docentes	                                                        | Sometimes | High       |
+| Revisar y filtrar postulaciones	                                                | Often	    | High       |
+| Evaluar candidatos (entrevistas, pruebas, informes)	                                | Sometimes | High       |
+| Generar y firmar contratos digitales	                                                | Rarely    | High       |
+| Asignar horarios y materias según perfil	                                        | Sometimes | Medium     |
+| Consultar métricas de desempeño docente	                                        | Often     | High       |
+| Acceder al banco de talento docente	                                                | Sometimes | High       |
+| Enviar feedback o evaluación continua a docentes	                                | Sometimes | Medium     |
+| Recibir alertas sobre renovación de contratos	                                        | Sometimes | Medium     |
+| Supervisar progreso en capacitación de nuevos docentes                                | Sometimes | Medium     |
+| Consultar reportes generales de gestión docente                                       | Sometimes | High       |
+| Consultar reportes generales de gestión docente                                       | Rarely    | Medium     |
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
