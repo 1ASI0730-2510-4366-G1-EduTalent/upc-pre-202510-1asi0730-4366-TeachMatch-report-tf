@@ -249,8 +249,17 @@
 
 
 ## 2.1.2. Estrategias y tácticas frente a competidores
+Teniendo en cuenta el análisis competitivo, se han desarrollado las siguientes estrategias y tácticas contra las fortalezas y debilidades de nuestros competidores, aprovechando las oportunidades.
+**Estrategias:**
+* Aprovechar la falta de enfoque pedagógico en plataformas y posicionarse como la única solución para instituciones educativas.
+* Mostrar que TeachMatch no solo conecta vacanteso evalúa candidatos, sino que gestiona todo el ciclo docente.
+* Fortalecer la relación con los usuarios a través de espacios de colaboración, capacitación y retroalimentación, generando fidelidad frente a soluciones impersonales.
+* Atacar mercados desatendidos por los competidores ofreciendo un modelo freemium y flexible, con visión de expansión regional más rápida y efectiva
 
-
+**Tácticas:**
+* Diseñar materiales que comparen visualmente a TeachMatch con los competidores, destacando los módulos que ellos no cubren.
+* Ofrecer uso gratuito por tiempo limitado o por número reducido de vacantes, junto a una guía personalizada para que instituciones prueben la plataforma y vean su potencial.
+* Publicar casos de éxito, artículos, webinars y testimonios que demuestren el impacto real de TeachMatch en la gestión docente.
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
