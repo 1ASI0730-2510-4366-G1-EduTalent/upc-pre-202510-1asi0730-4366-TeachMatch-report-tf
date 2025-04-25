@@ -24,9 +24,9 @@
 
 ### 4.3.2. Landing Page Mock-up
 
-## 4.4. Diseño UX/UI de Aplicaciones Web
+## 4.4. Web Applications UX/UI Design.
 
-### 4.4.1. Wireframes de Aplicaciones Web
+### 4.4.1. Web Applications Wireframes.
 Presentamos los wireframes de la aplicación web, proporcionando una visión clara de la estructura y disposición de las diferentes páginas y funcionalidades. Los wireframes son representaciones visuales que muestran la organización de los elementos en la interfaz de usuario.
 Link a los Wireframes de la Web Application (Figma): **https://www.figma.com/design/KZdBg10Rl4d5UXpjeWWIIG/Wireframes-Teachteam?node-id=0-1&t=1N0rY45JVydGcPRw-1**
 
@@ -58,9 +58,7 @@ Pantalla de monitoreo del desempeño de los docentes recién contratados. Permit
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-## 4.4. Diseño UX/UI de Aplicaciones Web
-
-### 4.4.1. Mockups de Aplicaciones Web
+### 4.4.3. Web Applications Mock-ups.
 En esta sección, presentamos los mock-ups de la aplicación web, proporcionando una visión detallada de la apariencia final de las diferentes páginas y funcionalidades. Son representaciones visuales de alta fidelidad que muestran el diseño y la interfaz de usuario, permitiendo una comprensión clara de cómo funcionará la aplicación.
 
 Link al Web Application Mock-up (Figma):  
