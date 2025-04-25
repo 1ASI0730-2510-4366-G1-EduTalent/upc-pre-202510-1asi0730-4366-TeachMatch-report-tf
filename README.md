@@ -163,7 +163,7 @@ Sabemos que hemos tenido exito cuando los procesos de contratacion sean mas rapi
 
 #### 1.2.2.4. Lean UX Canvas
 
-
+![LeanUXCanvas1](../chapter1/assets/LeanUXCanvas.png)
 
 **Enlace para acceder al Canvas:**  
 
