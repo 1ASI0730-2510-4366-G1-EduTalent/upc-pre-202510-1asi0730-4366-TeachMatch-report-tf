@@ -117,59 +117,50 @@ Los usuarios valoran funcionalidades como:
 
 **¿Dónde encaja el producto en su trabajo o vida diaria?**
 
-
+Nuestro producto esta presemta directamente en la rutina operativa de las instituciones educativas, ya que es una herramienta que gestiona el personal docente usada tanto por coordinadores, directivos y docentes.
 
 **¿Cuándo y cómo se usará el producto?**
 
-
+El producto se usa de forma continua durante todo el proceso escolar, tanto antes del ciclo para publicar vacantes, evaluar candidatos y formalizar contrataciones, durante el ciclo escolar para asignar horarios, registrar asistencias, realizar evaluaciones de desempe;o y cargar documentacion o capacitar docentes, y de forma continua para monitorear KPI educativos, retroalimentacion y actualizacion de datos de docentes o renovacion de contratos.
 
 **¿Cómo debe verse y comportarse el producto?**
 
-
+El producto debe tener una interfaz limpia y profesional, ya que se trata de una plataforma para la educacion. Ademas debe tener secciones claramente diferenciadas, colores suaves, tipografia legible, iconos intuitivos y una navegacion sencilla. Por otro lado, nuestro producto debe ser rapido, responsivo y fluido, optimizado para reducir los tiempos de carga largos. Ademas debe incluir alertas y recordatorios asi como poersonalizacion de dashboard para los distintos usuarios. Por ultimo debe contar con una buena seguridad y privacidad ya que estamos manejando datos sensibles de personas e instituciones educativas.
 
 **Future Assumptions** 
 
-- 
-
+- Creemos que la plataforma debe integrar IA para filtrar candidatos, predecir rotaciones de docentes, recomendaciones personalizadas, etc.
+- Creemos que habra matching proactivo en la que se sugeriran docentes antes de que se publiquen las vacantes en base a su historial y datos predictivos.
+- Creemos que debe incluir una seccion de entrevistas por videollamada integrado con grabaciones automaticas.
+- Creemos que debe integrarse con plataformas externas como calendarios y nomias para permitir la interoperabilidad con sistemas que las insituciones ya utilizan.
+- Creemos que debe tener un sistema de encuestas automatizadas para recopilar el feedback que los alumnos le dan al profesor.
+- Creemos que debe tener alertas inteligentes que nitifiquen cuando un docente tiene un bajo desempe;o, tenga retrasos o faltas frecuentes.
 
 ### 1.2.2.3. Lean UX Hypothesis Statements
 
 #### Hypothesis Statement 01
 
+Creemos que las instituciones educativas tienen dificultades para gestionar el proceso de contratacion de docentes. Sabemos que tendran mejores resultados si usan una TeachMatch a para tareas como publicacion de vacantres, evaluaciones y firma de contratos.
 
-
-Sabremos que hemos tenido éxito
-
-
-
+Sablremos que hemos tenido exito cuando se reduzca el tiempo de contratacion y exista una mejora en la calida del personal contratado.
 
 #### Hypothesis Statement 02
 
+Creemos que los coordinadores academicos necesitan informacion clara y confiable sobre el desempe;o de un docente, para eso TeachMatch porporciona un panel con metricas de desempe;o, calificaciones y feedback continuo.
 
-
-Sabremos que hemos tenido éxito
-
-
-
+Sabemos que hemos tenido exito cuando se mejore su capacidad de tomar desiciones basadas en datos y retener mejor al talento docente.
 
 #### Hypothesis Statement 03
 
+Creemos que los docentes valoran plataformas donde se pueda acceder con alta facilidad a sus evaluaciones, contratos y horarios. Sabemos que con TeachMatch tendran acceso a su historial profesional, capacitaciones y calendario personalizado.
 
-Creemos que 
-
-Sabremos que 
-
-Cuando 
-
+Sabremos que hemos tenido exito cuando se aumente su satisfaccion y compromiso con la institucion para la que trabajan.
 
 #### Hypothesis Statement 04
 
-Creemos que
+Creemos que las instituciones peque;as y con poco tiempo para reclutar profesores se veran beneficiadas con una TeachMatch, que sugiere automaticamente candidatos altamente compatibles para sus vacantes.
 
-Sabremos que
-
-Cuando
-
+Sabemos que hemos tenido exito cuando los procesos de contratacion sean mas rapidos y eficientes, con una menor necesidad de revision manual.
 
 #### 1.2.2.4. Lean UX Canvas
 
