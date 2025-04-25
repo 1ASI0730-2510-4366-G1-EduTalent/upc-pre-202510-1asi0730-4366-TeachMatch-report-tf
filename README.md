@@ -30,38 +30,37 @@ Por otro lado, la Planificación y Asignación de Horarios automatiza la asignac
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
-
-
+Durante mucho tiempo las instituciones educativas han dedicado su tiempo para poder encontrar buenos profesores, así como abrir las plazas y vacantes para los mismo. Sin embargo, actualmente las herramientas que existen de contratación son un poco ambiguas, lo que genera un retraso o incluso una dificultad encontrar un buen personal capacitado
 
 **What** 
 **¿Cuál es el problema?**
-
+Las instituciones educativas tienen dificultades para gestionar de el proceso de contratación docente. Esto incluye la publicación de vacantes, evaluación de candidatos, etc, generando procesos largos, poco estructurados y con alto margen de error.
 
 **When** 
 **¿Cuándo sucede el problema?**
-
+Durante los periodos de planificación académica y contratación, generalmente antes del inicio de cada ciclo escolar o semestre, así como de manera continua en la evaluación y seguimiento del desempeño docente.
 
 **Where** 
 **¿Dónde surge el problema?** 
-
+En instituciones educativas de nivel básico, medio y superior, tanto públicas como privadas, que no cuentan con una plataforma digital integrada para gestionar todo el ciclo de vida del docente.
 
 **Who** 
 **¿Quiénes están involucrados? ¿Quién lo utilizará?** 
-
+Están involucrados los departamentos de recursos humanos, coordinación académica, directivos institucionales y los propios docentes. La plataforma será utilizada por todos ellos, con distintos niveles de acceso y funcionalidades según el rol.
 
 **Why (Por qué)** 
 **¿Cuál es la causa del problema?** 
-
+La causa principal es la falta de digitalización e integración de los procesos de gestión docente, lo que obliga a las instituciones a usar herramientas desarticuladas (como hojas de cálculo, correos electrónicos, formularios manuales, aplicaciones de busqueda de Curriculum Vitae) que dificultan el seguimiento, la transparencia y la eficiencia.
 
 **¿Cuáles son las 2H?** 
 
 **How (Cómo)** 
 **¿Cómo se utilizará el producto?** 
-
+**TeachMatch** será una plataforma en línea que permitirá a las instituciones educativas publicar vacantes, recibir postulaciones, evaluar candidatos, generar contratos, asignar horarios y realizar seguimiento del desempeño docente, todo desde un solo sistema centralizado y accesible desde cualquier dispositivo.
 
 **How much (Cuánto)** 
 **¿Cuál es la magnitud del problema?** 
-
+A nivel regional, miles de instituciones educativas enfrentan procesos de contratación ineficientes. Esto afecta la calidad educativa, retrasa el inicio de clases, genera rotación innecesaria de docentes y reduce la capacidad de atraer talento calificado. La falta de un sistema como TeachMatch impacta directamente en la experiencia de estudiantes y en la reputación institucional.
 
 
 ## 1.2.2. Lean UX Process
