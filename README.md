@@ -96,15 +96,32 @@ Pantalla de monitoreo del desempeño de los docentes recién contratados. Permit
 
 ## 4.6. Domain-Driven Software Architecture
 
+En esta sección, se presenta la arquitectura de software basada en el dominio, un enfoque que centra el diseño y desarrollo del software en el conocimiento del dominio específico del negocio. Este enfoque permite crear sistemas más alineados con las necesidades y procesos del negocio, facilitando la comunicación entre desarrolladores y expertos del dominio. A continuación, se detallan los diferentes diagramas y contextos delimitados que conforman la arquitectura de software de nuestro proyecto.
+
 ### 4.6.1. Software Architecture Context Diagram
+
+El diagrama de contexto del sistema muestra la relación entre el sistema y los actores externos, proporcionando una visión general de la arquitectura del sistema y sus interacciones con el entorno externo.
+
+![Context](/assetss/images/chapterIV/Context.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 
+Los diagramas de contenedores muestran los diferentes contenedores que componen el sistema, como aplicaciones web, bases de datos, microservicios y cómo se comunican entre sí. Estos diagramas proporcionan una visión de alto nivel de la arquitectura del sistema, destacando las responsabilidades de cada contenedor y sus interacciones.
+
+![Container](/assetss/images/chapterIV/containerweb.png)
 ### 4.6.3. Software Architecture Components Diagrams
+
 
 ## 4.7. Software Object-Oriented Design
 
+En esta sección se presenta el diseño de software orientado a objetos para TeachMatch. Se incluyen diagramas de clases y un diccionario de clases que describen la estructura y los atributos de las principales entidades del sistema.
+
 ### 4.7.1. Class Diagrams
+El diagrama de clases proporciona una representación visual de las clases del sistema, sus atributos y las relaciones entre ellas.
+
+A continuación, presentaremos los diagramas de clases, los cuales son una representación gráfica de las clases y objetos que conforman a TeachMatch. Estos diagramas son esenciales para comprender la estructura de TeachMatch.
+
+
 
 ### 4.7.2. Class Dictionary
 
