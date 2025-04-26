@@ -57,7 +57,13 @@ Link para acceder al Scenario Mapping: [Scenario Mapping](https://miro.com/welco
 | E4-US3          | Ver reputacion y calificaciones del usuario                    | **Como** usuario <br> **Quiero** ver la calificacion promedio de un docente o reputacion de una institucion <br> **Para** evaluar un posible contrato con ellos              | **Escenario 1: Usuario con reputacion disponible**<br>• Dado que el usuario accede a un perfil de otro usuario<br>• Cuando accede a "reputacion" <br>• Entonces el sistema muestra calificaiones promedio, comentarios recibidos y distinciones en el caso de instituciones educativas.  <br><br>**Escenario 2: No hay historial de calificaciones**<br>  • Dadp que el usuario accede a un perfil sin contratos previos <br> •Entonces el sistema muestra un mensaje diciendo que no hay estadisticas disponibles.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 1                         |
 ## 3.3. Impact Mapping
 
+Impact map de Luis (Docente)
 
+![Image Alt](assets/ImpactLuis.png)
+
+Impact map de Katherine (Directora de institucion)
+
+![Image Alt](assets/ImpactKatherine.png)
 
 ## 3.4. Product Backlog
 
