@@ -1,6 +1,11 @@
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+En esta sección describimos el proceso que seguimos para construir los To-Be Scenario Mapping de cada segmento objetivo. A partir de los insights obtenidos en el As-Is, realizamos una lluvia de ideas individual, luego revisamos en equipo las fricciones y comportamientos reales observados, identificamos oportunidades de mejora y redefinimos las fases clave del proceso.
+![Image Alt](assets/ToBe.jpg)
+
+Link para acceder al Scenario Mapping: [Scenario Mapping](https://miro.com/welcomeonboard/RlVVeWdnSVBCR3V3TmlDTDlKSFBhL1JvTnJ1K1g5NExnOXFqV2wzWXdPeXRGMVkzdU5JdWJxQ3dvY3lDc2h3YVFqRlg2bzJhOFI5UnQyb2NOWEZsZHZ2cFlmOUZwQUM5RGxNeDFVc3ZZUmEzclNNdENERjUyOE9qZWhPZkE5akp0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=941959666707)
+
 ## 3.2. User Stories
 
 ### Epic 1: Autenticacion
