@@ -26,7 +26,7 @@
             </tr>
              <tr>
                 <td style="border: 1px solid ;">Sebastian Alonso Bustinza Muñoz</td>
-                <td style="border: 1px solid ;">U202123362/td>
+                <td style="border: 1px solid ;">U202123362</td>
             </tr>
              <tr>
                 <td style="border: 1px solid ;">Tony Do Santos Torres Cortez</td>
@@ -48,9 +48,11 @@
 
 | Versión |   Fecha    | Autor                                                                                                                                 | Descripción de modificación                                                                                                                                                                                                          |
 | :-----: | :--------: | :------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1.0** | 15/08/2023 |                                                                                                                                       |                                                                                                                                                                                                                                      |
-
-
+| **0.1** | 21/04/2025 | Luis Sebastián Rubio Ortiz  |   Se añadió las division de los branch, así mismo se añadió los capítulos y sus partes detalladamente.  |
+| **0.2** | 24/04/2025 | Luis Sebastián Rubio Ortiz  |   Se añadió el avance del capítulo 1 2 y 3  |
+| **0.3** | 25/04/2025 | Sebastian Alonso Bustinza Muñoz, Tony Do Santos Torres Cortez   |   Se añadio el capítulo 4  |
+| **0.4** | 26/04/2025 | Jean Pool Huaman De La Cruz   |   Se añadio el capítulo 5  |
+| **1.0** | 25/04/2025 | Luis Sebastián Rubio Ortiz, Sebastian Alonso Bustinza Muñoz, Tony Do Santos Torres Cortez, Jean Pool Huaman De La Cruz   |   Entrega de la TB1 |
 
 # Project Report Collaboration Insights
 
