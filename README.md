@@ -4,10 +4,10 @@
     <img src="./assets/upcLogo.png" alt="Logo de UPC" >
      <p><strong>Ingeniería de Software</strong></p>
     <p><strong>Curso:</strong> Desarrollo de Aplicaciones Open Source</p>
-    <p><strong>Docente:</strong> Angel Augusto Velasquez Nuñez</p>
+    <p><strong>Docente:</strong> Alex Humberto Sánchez Ponce</p>
     <p><strong>"Informe de TB1"</strong></p>
-    <p><strong>Startup:</strong> DevForge</p>
-    <p><strong>Producto:</strong> InfluMatch</p>
+    <p><strong>Startup:</strong> EduTalent  </p>
+    <p><strong>Producto:</strong> Teachmatch</p>
 </div>
 
 ### Team members:
