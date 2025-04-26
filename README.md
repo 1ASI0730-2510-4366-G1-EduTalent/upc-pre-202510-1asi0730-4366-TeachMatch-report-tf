@@ -177,7 +177,27 @@ Durante el primer sprint backlog, el equipo se planteó como meta iniciar y comp
 #### **5.2.1.3. Development Evidence for Sprint Review**
 
 
-Durante el Sprint 1, el desarrollo de la landing page se realizó fuera de GitHub, por lo que no se dispone de commits ni registros específicos. El diseño y la implementación fueron gestionados de manera colaborativa en el entorno local del equipo, utilizando herramientas como Figma para el diseño y GitHub para el despliegue. El trabajo se llevó a cabo mediante el intercambio de código y ocasionalmente a través del grupo de trabajo, donde se compartieron avances y ajustes. Aunque no se integró ni versionó el código en GitHub durante el desarrollo, la landing page fue correctamente puesta en producción mediante GitHub Pages, garantizando su disponibilidad pública mediante un enlace proporcionado al finalizar el sprint.
+### 5.2.1.4. **Testing Suite Evidence for Sprint Review**
+
+Durante el Sprint 1, el desarrollo de la landing page se realizó mayoritariamente en entornos locales por parte del equipo, con colaboración constante a través del intercambio de código y comunicación en el grupo de trabajo. Si bien parte del desarrollo se efectuó fuera de GitHub, sí se realizaron algunos commits y actualizaciones directamente en el repositorio del proyecto, principalmente para el despliegue final y ajustes menores. Se utilizó Figma para el diseño visual y GitHub Pages para poner la landing page en producción, asegurando su disponibilidad pública mediante un enlace accesible al cierre del sprint.
+
+A continuación, se detalla la evidencia de actividad registrada en el repositorio del proyecto:
+
+| Repository | Branch     | Commit ID | Commit Message          | Committed on       |
+|------------|------------|-----------|--------------------------|--------------------|
+| [Landing-Page](https://github.com/1ASI0730-2510-4366-G1-EduTalent/Landing-Page) | main       | 86941ab   | Update index.html         | Apr 26, 2025 |
+| Landing-Page | main       | bf87efa   | Update index.html         | Apr 26, 2025 |
+| Landing-Page | main       | 20b5084   | Update index.html         | Apr 26, 2025 |
+| Landing-Page | main       | aeef1ba   | Delete style.css          | Apr 26, 2025 |
+| Landing-Page | main       | 92a79fb   | Add files via upload      | Apr 26, 2025 |
+| Landing-Page | main       | 2f658c4   | Add files via upload      | Apr 26, 2025 |
+| Landing-Page | main       | cba7969   | Delete README.md          | Apr 26, 2025 |
+| Landing-Page | main       | 98ab3ed   | Update index.html         | Apr 26, 2025 |
+| Landing-Page | main       | eeba095   | Create .algo              | Apr 26, 2025 |
+| Landing-Page | main       | 5fb4258   | Add files via upload      | Apr 26, 2025 |
+| Landing-Page | main       | f47d211   | Delete script.js          | Apr 26, 2025 |
+| Landing-Page | main       | 10a35e9   | Delete css/.algo          | Apr 26, 2025 |
+
 
 
 
