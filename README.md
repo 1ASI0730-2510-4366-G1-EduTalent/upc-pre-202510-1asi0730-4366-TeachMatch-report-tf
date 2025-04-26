@@ -56,17 +56,21 @@ Empleamos botones, para agilizar la experiencia del usuario primero acortando lo
  -	Animaciones:
 En algunas secciones tenemos diferentes efectos para captar la atención del usuario logrando así una aplicación suave y didáctica para nuestros clientes. Por ejemplo, el efecto blur que proporciona una animación suave que permite en adición a un zoom enterarse sobre nuestros beneficios.
 
- 
-
-
 
 ## 4.2. Information Architecture
 
+
 ### 4.2.1. Organization Systems
+
+El sistema de organización de la aplicación TEACHmatch se distribuye con vistas de manera jerárquica, resaltando de esta manera los elementos mas importante en la pantalla. Gracias a este enfoque, captamos la atención del usuario, y le incitamos a revisar los diferentes tópicos y apartados que posee nuestra web. Enmarcamos en la pantalla inicial nuestro slogan, que transmite una método moderno, novedoso y fresco para poder aplicar a diferentes trabajos para el área docente.
 
 ### 4.2.2. Labeling Systems
 
+En nuestra aplicación TeachMatch, el sistema de etiquetas está cuidadosamente organizado para garantizar una navegación clara y efectiva para los usuarios. La etiqueta Inicio lleva a los usuarios al comienzo del sitio. Sobre Nosotros los desplaza hacia una sección donde se presenta a los desarrolladores del proyecto. Información describe el funcionamiento de la plataforma y sus beneficios. Planes presenta las opciones de suscripción disponibles, con detalles de las características de cada plan. Contact us dirige a un formulario donde los usuarios pueden registrarse para recibir información adicional. 
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+
 
 ### 4.2.4. Searching Systems
 
