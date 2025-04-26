@@ -250,3 +250,14 @@ A continuación, se detallan las contribuciones realizadas por cada integrante d
 | **Luis Sebastián Rubio Ortiz**       | Desarrollo del pie de página (`footer`), implementación de enlaces sociales, diseño visual del pie de página                                                                 |
 | **Sebastián Alonso Bustinza Muñoz**  | Pruebas de funcionalidad de la landing page, diseño de la estructura visual de la sección `"Hero"`                                                                         |
 | **Jean Pool Huaman De La Cruz**      | Revisión final de toda la landing page, ajustes finales de la sección `"Hero"`                                                                                              |
+
+
+## Conclusiones
+
+
+* *TeachMatch* busca revolucionar la gestión del talento docente en instituciones educativas mediante una plataforma integral, intuitiva y basada en datos. Al centralizar procesos como la contratación, evaluación y seguimiento del desempeño, se mejora la eficiencia operativa, la calidad educativa y la experiencia tanto de los coordinadores como de los docentes.
+
+* Durante el Sprint 1, se completó con éxito la landing page del proyecto, cumpliendo los objetivos establecidos. El diseño priorizó la claridad visual, la navegabilidad intuitiva y la coherencia estética, garantizando una experiencia atractiva y funcional para los usuarios. Se desarrollaron correctamente todas las secciones clave: Hero, About, Plans, Join, Main, How-it-works, Who-can-use y Footer, cada una alineada con la identidad y misión de la plataforma.
+
+* El equipo trabajó de forma organizada, utilizando Trello para distribuir y dar seguimiento a las tareas. Cada integrante cumplió con sus responsabilidades, aportando en el diseño, desarrollo, validación y revisión del producto. Finalmente, las pruebas aseguraron que la página fuera coherente, funcional y visualmente atractiva, sentando así una base sólida para el desarrollo de futuras funcionalidades de *TEACHmatch*.
+
