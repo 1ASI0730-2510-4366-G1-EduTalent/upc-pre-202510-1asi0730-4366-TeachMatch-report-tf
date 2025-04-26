@@ -177,7 +177,7 @@ Durante el primer sprint backlog, el equipo se planteó como meta iniciar y comp
 #### **5.2.1.3. Development Evidence for Sprint Review**
 
 
-### 5.2.1.4. **Testing Suite Evidence for Sprint Review**
+
 
 Durante el Sprint 1, el desarrollo de la landing page se realizó mayoritariamente en entornos locales por parte del equipo, con colaboración constante a través del intercambio de código y comunicación en el grupo de trabajo. Si bien parte del desarrollo se efectuó fuera de GitHub, sí se realizaron algunos commits y actualizaciones directamente en el repositorio del proyecto, principalmente para el despliegue final y ajustes menores. Se utilizó Figma para el diseño visual y GitHub Pages para poner la landing page en producción, asegurando su disponibilidad pública mediante un enlace accesible al cierre del sprint.
 
@@ -198,10 +198,9 @@ A continuación, se detalla la evidencia de actividad registrada en el repositor
 | Landing-Page | main       | f47d211   | Delete script.js          | Apr 26, 2025 |
 | Landing-Page | main       | 10a35e9   | Delete css/.algo          | Apr 26, 2025 |
 
+### 5.2.1.4. **Testing Suite Evidence for Sprint Review**
 
 
-
-#### **5.2.1.4. Testing Suite Evidence for Sprint Review**
 
 Para la entrega del Sprint 1, nos centramos en el desarrollo completo, implementación y despliegue de la Landing Page de *EduTalent*. En este contexto, la sección de “Testing” se orientó principalmente a cumplir con los requerimientos del usuario, priorizando una estructura clara, accesible y fácil de navegar.
 
