@@ -40,10 +40,11 @@ Color principal:
 Tipografía:
 La tipografía juega un papel de suma importancia para establecer diferentes jerarquías entre la información que hay en el landing page presentado. Para el presente proyecto, utilizamos “Open Sans” importado desde “Google Font”. A nuestro parecer , un estilo moderno, limpio y legible para el usuario.
 Encabezados y sus respectivos píxeles:
- -	H1, tamaño de 96px
- -	H2, tamaño de 48px
- -	H3, tamaño de 17px
- -	H4, tamaño de 16px
+
+- **H1**: tamaño de **96px**
+- **H2**: tamaño de **48px**
+- **H3**: tamaño de **17px**
+- **H4**: tamaño de **16px**
 
 ### 4.1.2. Web Style Guidelines
 
