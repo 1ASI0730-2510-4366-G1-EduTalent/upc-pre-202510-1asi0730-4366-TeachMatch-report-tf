@@ -220,16 +220,24 @@ Los diagramas de contenedores muestran los diferentes contenedores que componen 
 
 ![Container](/assetss/images/chapterIV/containerweb.png)
 ### 4.6.3. Software Architecture Components Diagrams
-BoundedContext: Teacher Management
-Este contexto encapsula las funcionalidades relacionadas con la gestión de los docentes contratados dentro de la plataforma TeachMatch.
-![image](https://github.com/user-attachments/assets/f7091af2-9d09-46ef-aaf8-a9d6d04c6400)
+
+BoundedContext: Recruitment
+Este diagrama representa la estructura interna del contexto delimitado Recruitment, encargado de la gestión de vacantes y postulaciones en TeachMatch.
+
+![437695330-f7091af2-9d09-46ef-aaf8-a9d6d04c6400](https://github.com/user-attachments/assets/083d8822-c369-41a2-9014-ac1a1798529a)
+
 
 BoundedContext: Evaluation
+
 Este módulo encapsula la lógica relacionada con la evaluación de los docentes postulantes. Incluye la ejecución de pruebas pedagógicas y psicométricas, la administración de entrevistas automatizadas y el cálculo de puntajes de compatibilidad.
-![image](https://github.com/user-attachments/assets/a4ee1294-659c-45d1-ab92-24efd0fd106a)
+
+![image](https://github.com/user-attachments/assets/7a409a2e-6004-4e32-a386-b161c333f753)
+
 
 BoundedContext: Teacher Management
+
 Este bounded context encapsula las funcionalidades relacionadas con la gestión y seguimiento del desempeño docente una vez que han sido contratados. Incluye la administración de la capacitación inicial, las evaluaciones periódicas, y la retroalimentación tanto desde como hacia los docentes.
+
 ![image](https://github.com/user-attachments/assets/1c8dd5e4-1e60-4f22-a8c2-70c504458aaa)
 
 ## 4.7. Software Object-Oriented Design
