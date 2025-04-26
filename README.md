@@ -161,7 +161,7 @@ Sabemos que hemos tenido exito cuando los procesos de contratacion sean mas rapi
 
 ![LeanUXCanvas1](../chapter-1/assets/LeanUXCanvas.png)
 
-**Enlace para acceder al Canvas:**  https://docs.google.com/presentation/d/1ZcvHloRFbWEdNE4rr7bMEj5RjxxpZwMwNdnIRE9SMyE/edit?usp=sharing
+**Enlace para acceder al Canvas:**  [Canvas](https://docs.google.com/presentation/d/1ZcvHloRFbWEdNE4rr7bMEj5RjxxpZwMwNdnIRE9SMyE/edit?usp=sharing)
 
 
 ## 1.3. Segmentos objetivos.
