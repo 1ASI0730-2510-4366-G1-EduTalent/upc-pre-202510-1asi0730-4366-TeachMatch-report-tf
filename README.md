@@ -150,11 +150,45 @@ Un sprint es un periodo breve y estructurado en el que se desarrollan tareas con
 
 
 #### **5.2.1.2. Sprint Backlog 1**
+En esta sección se detallan las tareas realizadas durante el **Sprint 1** del proyecto **EduTalent**.
+Durante el primer sprint backlog, el equipo se planteó como meta iniciar y completar el desarrollo de la landing page. Para coordinar el trabajo y distribuir responsabilidades, se empleó Trello, una herramienta que facilitó la división de las historias de usuario en tareas concretas, asignándolas a los integrantes según sus fortalezas. El objetivo central de este sprint fue lograr una landing page completamente funcional y visualmente atractiva. 
+**Enlace de Trello:** [Accede al tablero de Trello para Sprint 1](https://trello.com/b/1zyQJDjB/edutalent)
+
+| **ID**       | **Historia de Usuario**                                | **ID** | **Tarea**                                 | **Descripción**                                                              | **Estimación (Horas)** | **Asignado a**                         | **Estado (Por Hacer / En Proceso / En Revisión / Hecho)** |
+|--------------|---------------------------------------------------------|--------|-------------------------------------------|-------------------------------------------------------------------------------|------------------------|----------------------------------------|-----------------------------------------------------------|
+| **E1-US01**  | Desarrollo de la Landing Page de EduTalent              | T1     | Crear estructura básica de la página       | Desarrollo inicial de la estructura HTML y diseño básico de la página         | 3                      | Tony Do Santos Torres Cortez            | Hecho                                                    |
+| **E1-US02**  | Diseño de la página de inicio (Hero)                    | T2     | Implementar sección Hero                   | Diseño y desarrollo de la sección de bienvenida (Hero) en la landing          | 2                      | Tony Do Santos Torres Cortez            | Hecho                                                    |
+| **E1-US03**  | Creación de secciones informativas (About, Planes, etc.)| T3     | Crear sección About                        | Desarrollo de la sección "Sobre Nosotros" con el contenido textual y visual   | 2                      | Tony Do Santos Torres Cortez            | Hecho                                                    |
+| **E1-US04**  | Desarrollo de la funcionalidad de inicio de sesión      | T4     | Crear formulario de inicio de sesión       | Implementación de formulario y validación para el inicio de sesión            | 4                      | Daniel Eduardo Rodriguez Aguilar        | Hecho                                                    |
+| **E1-US05**  | Implementación de footer y enlaces de redes sociales    | T5     | Crear footer con enlaces sociales          | Desarrollo del pie de página con enlaces a redes sociales                     | 2                      | Luis Sebastián Rubio Ortiz              | Hecho                                                    |
+| **E1-US06**  | Funcionalidad y Pruebas                                 | T6     | Realizar pruebas de funcionalidad          | Pruebas de usabilidad para verificar que las secciones son funcionales        | 3                      | Sebastián Alonso Bustinza Muñoz         | Hecho                                                    |
+| **E1-US07**  | Revisión Final y Feedback                               | T7     | Revisión final de la landing page          | Revisión de todos los elementos de la landing page y feedback del equipo      | 1                      | Jean Pool Huaman De La Cruz             | Hecho                                                    |
+| **E1-US01**  | Desarrollo de la Landing Page de EduTalent              | T8     | Diseño de la página de inicio (Hero)       | Diseño de la imagen y la estructura de la página de inicio                    | 2                      | Sebastián Alonso Bustinza Muñoz         | Hecho                                                    |
+| **E1-US02**  | Diseño de la página de inicio (Hero)                    | T9     | Crear sección Hero (Revisión)              | Revisión final del diseño y ajustes de la sección Hero                        | 1                      | Jean Pool Huaman De La Cruz             | Hecho                                                    |
+| **E1-US04**  | Desarrollo de la funcionalidad de inicio de sesión      | T10    | Crear formulario de inicio de sesión (Rev.)| Revisión del código de validación y pruebas del formulario                    | 3                      | Daniel Eduardo Rodriguez Aguilar        | Hecho                                                    |
+| **E1-US05**  | Implementación de footer y enlaces de redes sociales    | T11    | Diseño de pie de página                    | Diseño de los elementos visuales del pie de página                             | 1                      | Luis Sebastián Rubio Ortiz              | Hecho                                                    |
+
+
+
+
+
 
 
 #### **5.2.1.3. Development Evidence for Sprint Review**
 
+
+Durante el Sprint 1, el desarrollo de la landing page se realizó fuera de GitHub, por lo que no se dispone de commits ni registros específicos. El diseño y la implementación fueron gestionados de manera colaborativa en el entorno local del equipo, utilizando herramientas como Figma para el diseño y GitHub para el despliegue. El trabajo se llevó a cabo mediante el intercambio de código y ocasionalmente a través del grupo de trabajo, donde se compartieron avances y ajustes. Aunque no se integró ni versionó el código en GitHub durante el desarrollo, la landing page fue correctamente puesta en producción mediante GitHub Pages, garantizando su disponibilidad pública mediante un enlace proporcionado al finalizar el sprint.
+
+
+
 #### **5.2.1.4. Testing Suite Evidence for Sprint Review**
+
+Para la entrega del Sprint 1, el enfoque principal fue el desarrollo completo, implementación y despliegue de la Landing Page. En lugar de una suite de pruebas formal, se priorizó la implementación de las necesidades de los usuarios, asegurando que las secciones de la página fueran claras, intuitivas y fáciles de entender.
+
+Dado que el desarrollo de la landing page se realizó de manera local y no se integró directamente en GitHub durante el proceso, no contamos con commits o pruebas formales registradas en el repositorio. Sin embargo, la página fue revisada de manera continua dentro del grupo de trabajo para asegurar que se ajustara a las expectativas y necesidades del proyecto.
+
+**Enlace al repositorio:**  
+[https://github.com/1ASI0730-2510-4366-G1-EduTalent/Landing-Page](https://github.com/1ASI0730-2510-4366-G1-EduTalent/Landing-Page)
 
 
 #### **5.2.1.5. Execution Evidence for Sprint Review**
