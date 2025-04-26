@@ -16,6 +16,11 @@ Brand Name:
 Teachmatch surgen de la combinación de las palabras “teach” que significa enseñar en ingles y “match” que hace referencia a hacer pares. Esta aplicación esta diseñada para agilizar y optimizar la selección del personal docente de instituciones educativas.
 <img src="assetss/images/chapterIV/teachmatch.jpg" width="300"/> 
 
+
+Colores: 
+Los colores desempeñan un papel importante en la primera impresión para los usuarios ya que les fa un perspectiva mas suave y agradable visualmente sobre nuestra aplicación incitándolos a navegar entre las diferentes funciones de las que disponemos. Usamos un color blanco para el color del texto estándar, ya que en combinación al color de fondo negro que escogimos se mezclan para mostrar información limpia y nítida fácil de captar para el espectador. Acompañado de un color celeste para resaltar botones y ciertas palabras claves que definen tanto startup como producto.
+
+
 ### 4.1.1. General Style Guidelines
 
 ### 4.1.2. Web Style Guidelines
