@@ -287,7 +287,7 @@ Teniendo en cuenta el análisis competitivo, se han desarrollado las siguientes 
 
 <b>Nombre:</b> Luis Alejo - <b>Edad:</b> 28 años - <b>Ocupación:</b> Director - <b>Browser:</b> Safari - <b>Device:</b> Computadora Personal Mac
 
-
+![image](https://github.com/user-attachments/assets/6a4db6d9-9acd-47b4-b2e5-bde335f660db)
  
 <b>Enlace a entrevista:</b> https://shorturl.at/vuuAL
 <p align="justify">
