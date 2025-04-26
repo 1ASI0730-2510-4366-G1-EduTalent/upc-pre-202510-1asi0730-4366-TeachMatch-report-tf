@@ -20,6 +20,13 @@ Teachmatch surgen de la combinación de las palabras “teach” que significa e
 Colores: 
 Los colores desempeñan un papel importante en la primera impresión para los usuarios ya que les fa un perspectiva mas suave y agradable visualmente sobre nuestra aplicación incitándolos a navegar entre las diferentes funciones de las que disponemos. Usamos un color blanco para el color del texto estándar, ya que en combinación al color de fondo negro que escogimos se mezclan para mostrar información limpia y nítida fácil de captar para el espectador. Acompañado de un color celeste para resaltar botones y ciertas palabras claves que definen tanto startup como producto.
 
+Color de texto:
+<img src="assetss/images/chapterIV/texto.jpg" width="300"/> 
+Color de background:
+<img src="assetss/images/chapterIV/background.jpg" width="300"/> 
+Color principal:
+<img src="assetss/images/chapterIV/main.jpg" width="300"/> 
+
 
 ### 4.1.1. General Style Guidelines
 
