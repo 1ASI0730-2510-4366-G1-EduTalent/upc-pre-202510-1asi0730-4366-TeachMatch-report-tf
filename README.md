@@ -93,13 +93,35 @@ En TEACHmatch, siempre priorizaremos la experiencia y agilidad en procesos. Entr
 El sistema de navegación es un punto muy importante que asegura una agradable experiencia de usuario. Nuestra aplicación ya cuenta con una barra de navegación que se encuentra en todo momento en la parte superior de la pantalla, de igual manera, mediante feedbacks y opiniones implementaremos mas enlaces para simplificar los caminos entre rutas que dispone la página.
 
 ## 4.3. Landing Page UI Design
-
 ### 4.3.1. Landing Page Wireframe
+
+Primero, se presenta los bocetos de las diferentes secciones y de como es que el landing se iba a implementar junto a sus diferentes apartados y funciones . Podemos apreciar desde el apartado de inicio, la barra de navegacion en la parte superior y los diferentes secciones para conocer mas sobre nosotros, mas sobre nuestro producto, nuestros beneficios y como contactarnos.
+
+<p align="center">
+<img src="assetss/images/chapterIV/Figma 1.jpg" width="300"/> 
+</p>
+
+
+<p align="center">
+<img src="assetss/images/chapterIV/Figma 2.jpg" width="300"/> 
+</p>
+
+
+<p align="center">
+<img src="assetss/images/chapterIV/Figma 3.jpg" width="300"/> 
+</p>
+
+
+<p align="center">
+<img src="assetss/images/chapterIV/Figma 4.jpg" width="300"/> 
+</p>
 
 ### 4.3.2. Landing Page Mock-up
 
-## 4.4. Web Applications UX/UI Design.
 
+
+
+## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 Presentamos los wireframes de la aplicación web, proporcionando una visión clara de la estructura y disposición de las diferentes páginas y funcionalidades. Los wireframes son representaciones visuales que muestran la organización de los elementos en la interfaz de usuario.
 Link a los Wireframes de la Web Application (Figma): **https://www.figma.com/design/KZdBg10Rl4d5UXpjeWWIIG/Wireframes-Teachteam?node-id=0-1&t=1N0rY45JVydGcPRw-1**
