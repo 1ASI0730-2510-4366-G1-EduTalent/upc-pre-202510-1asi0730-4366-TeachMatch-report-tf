@@ -35,9 +35,19 @@ Encabezados y sus respectivos píxeles:
  -	H3, tamaño de 17px
  -	H4, tamaño de 16px
 
-### 4.1.1. General Style Guidelines
-
 ### 4.1.2. Web Style Guidelines
+
+Para el enfoque de nuestra aplicación TEACHmatch, empleamos diversos recursos para lograr una página limpia, cómoda e intuitiva para el usuario. Al principio de todo, tenemos una barra de navegación que además de mostrar el nombre de nuestro producto también contiene el inicio que muestra la primera pantalla que vera el usuario cuando ingrese, el apartado de información para saber como es que funciona TEACHmatch, el apartado de Planes para saber los diferentes beneficios y costos que puede tener afiliarte a nosotros y un apartado de contactarnos para registrarte y recibir boletines semanales, ofertas de trabajo o estados de procesos en la página.
+ -	Imágenes:
+En el diseño, utilizamos diferentes imágenes que hacen referencia a nuestra misión y visión. Además que están colocadas acorde a los diferentes apartados que hay en la página. De tal manera, que optimizamos la experiencia de usuario y evitamos interrupciones y/o mal uso de las rutas por parte de nuestros usuarios.
+ -	Botones:
+Empleamos botones, para agilizar la experiencia del usuario primero acortando los viajes entre secciones ya que cada apartado en al barra superior nos dirige de inmediato al tópico que el usuario quiere conocer. Adicionalmente, también hay botones para mostrar más información para que le usuario aclare sus dudas sobre nuestro servicio.
+ -	Animaciones:
+En algunas secciones tenemos diferentes efectos para captar la atención del usuario logrando así una aplicación suave y didáctica para nuestros clientes. Por ejemplo, el efecto blur que proporciona una animación suave que permite en adición a un zoom enterarse sobre nuestros beneficios.
+
+ 
+
+
 
 ## 4.2. Information Architecture
 
