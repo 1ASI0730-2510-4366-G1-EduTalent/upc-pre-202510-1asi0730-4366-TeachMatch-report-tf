@@ -4,6 +4,14 @@
 
 Es un conjunto de normas que determinan como se debe redactar, diseñar o presentar documentos, contenido en línea, software u otro trabajos. A continuación, detallaremos los parámetros implementados en la estructura del proyecto.
 
+Branding:
+
+Brand Overview:
+TeachMatch está diseñado para optimizar el proceso de selección y seguimiento del personal docente en una institución educativa. Gracias a las diferentes funciones que dispone permite optimizar las gestión y selección del equipo docente para las instituciones educativas.
+ - Misión: Mejorar la calidad educativa mediante una plataforma que integra y optimiza la selección, contratación y seguimiento del talento docente, conectando instituciones con profesionales capacitados, fomentando así el desarrollo continuo y garantizando una enseñanza de excelencia.
+ - Visión: Ser la plataforma líder en gestión docente en Latinoamérica, transformando la forma en que las instituciones educativas identifican, contratan y desarrollan a sus profesores, asegurando una educación de calidad y sostenible a través de la tecnología.
+
+
 ### 4.1.1. General Style Guidelines
 
 ### 4.1.2. Web Style Guidelines
