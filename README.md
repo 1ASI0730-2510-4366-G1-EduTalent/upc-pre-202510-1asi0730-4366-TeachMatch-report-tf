@@ -2,6 +2,8 @@
 
 ## 4.1. Style Guidelines
 
+Es un conjunto de normas que determinan como se debe redactar, diseñar o presentar documentos, contenido en línea, software u otro trabajos. A continuación, detallaremos los parámetros implementados en la estructura del proyecto.
+
 ### 4.1.1. General Style Guidelines
 
 ### 4.1.2. Web Style Guidelines
