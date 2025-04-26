@@ -284,21 +284,45 @@ Teniendo en cuenta el análisis competitivo, se han desarrollado las siguientes 
 7. ¿Qué funcionalidad te facilitaría más la experiencia de encontrar, postularte y crecer dentro de una institución?
 
 ### 2.2.2. Registro de entrevistas
-## Segmento 1: 
+### Entrevistas para Segmento Objetivo 1: Instituciones Educativas
+
 <b>Nombre:</b> Luis Alejo - <b>Edad:</b> 28 años - <b>Ocupación:</b> Director - <b>Browser:</b> Safari - <b>Device:</b> Computadora Personal Mac
 
 ![image](https://github.com/user-attachments/assets/6a4db6d9-9acd-47b4-b2e5-bde335f660db)
  
-<b>Enlace a entrevista:</b> https://shorturl.at/vuuAL
+**Enlace de la entrevista:** [Entrevista Luis](https://shorturl.at/vuuAL)
 <p align="justify">
         
 Luis Alejo, director académico de 28 años, explica que actualmente gestionan la contratación docente de forma semiestructurada, combinando revisión de CV, entrevistas y clases modelo, aunque aún enfrentan retos para evaluar habilidades blandas y competencias digitales. Utilizan herramientas como Google Workspace para la gestión documental y un sistema interno para horarios, pero el seguimiento del desempeño docente sigue realizándose de manera manual. Considera que la automatización de estos procesos es una necesidad urgente para optimizar el tiempo y mejorar la calidad educativa. Además, destaca la importancia de asegurar la compatibilidad de los docentes con los valores institucionales y valora especialmente las plataformas que automaticen el reclutamiento, la evaluación, la gestión documental y el seguimiento de la formación continua.
 </p>
 
-## Segmento 2: 
+### Entrevistas para Segmento Objetivo 2: Docentes y practicantes
+
+**Nombre:** Analucia Basurco - **Edad:** 19 años - **Ocupación:** Docente - **Browser:** Google - **Device:** Laptop personal Asus
+
+![Image Alt](assets/AnaluciaEntrevista.jpg)
+
+**Enlace de la entrevista:** [Entrevista Analucia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202310349_upc_edu_pe/Ea_EVS_X2uxJtfiO14PLjTYBqeZ8o58iCM6N0g27hdy0Zw?e=1vLhjy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Analucia Basurco es docente particular y enseña ciencias en ingles, ingles y alemán. Ella nos explica que como docente particular buscar ser contratada no es tan complicado, sin embargo menciona que para poder realizarlo necesitaría de postularse no solo en alguna pagina web de CVs, sino que tendría que publicar su información en algunas redes sociales como **Facebook**. Así mismo menciona que al momento de buscar empleo en alguna institución educativa prioriza tener toda la información respecto al puesto de trabajo y que suele realizarse pruebas para poder entrar como profesor. Para ella seria genial que existiera un lugar donde tengas todo un historial de carrera como docente para así poder presentarse a las instituciones educativas.
 
 
+**Nombre:** Daniel Altamirano - **Edad:** 25 años - **Ocupación:** Docente de Ingles - **Browser:** Meet - **Device:** Teléfono Movil
 
+![Image Alt](assets/DanielEntrevista.jpg)
+
+**Enlance de la entrevista:** [Entrevista Daniel](https://youtu.be/vz6i8rY9ITo)
+
+Daniel Altamirano, docente de inglés con 2-3 años de experiencia, señaló la falta de formalidad y transparencia en los procesos de postulación docente, donde a menudo las vacantes ya están ocupadas antes de ser publicadas. Propuso una plataforma centralizada para postular, hacer seguimiento y recibir retroalimentación. También sugirió la incorporación de entrevistas automatizadas y pruebas psicométricas para evaluar habilidades blandas. Además, destacó la importancia de contar con recursos y capacitaciones para nuevos docentes, y de tener acceso digital a horarios, evaluaciones y documentos laborales.
+
+
+**Nombre:** Violeta Cortez - **Edad:** 49 años - **Ocupación:** Docente - **Browser:** Meet - **Device:** Teléfono Movil
+
+![Image Alt](assets/VioletaEntrevista.jpg)
+
+**Enlace de la entrevista:** [Entrevista Violeta](https://drive.google.com/file/d/1BNZrGSPYe7S78VZsb9Zuykh2gzej-DlZ/view?usp=sharing)
+
+Violeta Cortez, docente ya desde hace muchos años, nos comenta todo respecto a su experiencia como docente. Explica como es que han cambiado las cosas y ahora existen distintas plataformas para buscar empleo. También se menciona lo lento que era el proceso de selección de docentes y como antes practicamente se entraba por contactos. Así mismo ella esta de acuerdo y le parece buena idea que exista una plataforma en la cual se pueda ver retroalimentaciones, y estar para en constantes capacitaciones.
 
 ### 2.2.3. Análisis de entrevistas
 
