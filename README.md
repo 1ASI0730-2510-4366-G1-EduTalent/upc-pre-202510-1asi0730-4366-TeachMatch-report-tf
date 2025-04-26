@@ -207,6 +207,10 @@ En el primer sprint se alcanzó un progreso parcial en la implementación y desp
 
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 
+En este Sprint 1, el enfoque principal ha sido la creación de la Landing Page de la aplicación **EduTalent**, por lo que no se ha avanzado aún en la documentación de los servicios. No obstante, está previsto que dicha documentación se desarrolle y se incluya en los próximos sprints, conforme se avance en el desarrollo de los componentes funcionales del sistema.
+
+
+
 #### **5.2.1.7. Software Deployment Evidence for Sprint Review**
 
 
