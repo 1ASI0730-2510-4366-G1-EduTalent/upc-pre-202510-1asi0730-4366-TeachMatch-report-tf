@@ -10,8 +10,10 @@ Brand Overview:
 TeachMatch está diseñado para optimizar el proceso de selección y seguimiento del personal docente en una institución educativa. Gracias a las diferentes funciones que dispone permite optimizar las gestión y selección del equipo docente para las instituciones educativas.
  - Misión: Mejorar la calidad educativa mediante una plataforma que integra y optimiza la selección, contratación y seguimiento del talento docente, conectando instituciones con profesionales capacitados, fomentando así el desarrollo continuo y garantizando una enseñanza de excelencia.
  - Visión: Ser la plataforma líder en gestión docente en Latinoamérica, transformando la forma en que las instituciones educativas identifican, contratan y desarrollan a sus profesores, asegurando una educación de calidad y sostenible a través de la tecnología.
-<img src="assetss/images/chapterIV/edutalent.png" width="300" style="display:block; margin:auto;" />
 
+<p align="center">
+  <img src="assets/images/chapterIV/edutalent.png" width="300" />
+</p>
 
 Brand Name: 
 Teachmatch surgen de la combinación de las palabras “teach” que significa enseñar en ingles y “match” que hace referencia a hacer pares. Esta aplicación esta diseñada para agilizar y optimizar la selección del personal docente de instituciones educativas.
