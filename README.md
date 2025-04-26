@@ -88,6 +88,8 @@ En TEACHmatch, siempre priorizaremos la experiencia y agilidad en procesos. Entr
 
 ### 4.2.5. Navigation Systems
 
+El sistema de navegación es un punto muy importante que asegura una agradable experiencia de usuario. Nuestra aplicación ya cuenta con una barra de navegación que se encuentra en todo momento en la parte superior de la pantalla, de igual manera, mediante feedbacks y opiniones implementaremos mas enlaces para simplificar los caminos entre rutas que dispone la página.
+
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
