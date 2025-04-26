@@ -116,8 +116,12 @@ Primero, se presenta los bocetos de las diferentes secciones y de como es que el
 <img src="assetss/images/chapterIV/Figma 4.jpg" width="300"/> 
 </p>
 
+
+A continuación el [figma](https://www.figma.com/design/9dWW3UP6FEpxdz0zM3Tkdn/Untitled?node-id=2-69&t=rWHYpcjgXq5ZgzKN-1)
+
 ### 4.3.2. Landing Page Mock-up
 
+Partiendo del Landing page Wireframe, pudimos dar retoques finales para finalmente conseguir el landing page que queriamos. Determinamos que fue clave el boceto del mismo ya que nos ayudo a decidir y asegurar la legiblidad y flexbilidad de la página manteniendo el mismo esquema presentado anteriormente.
 
 
 
