@@ -12,7 +12,7 @@ TeachMatch está diseñado para optimizar el proceso de selección y seguimiento
  - Visión: Ser la plataforma líder en gestión docente en Latinoamérica, transformando la forma en que las instituciones educativas identifican, contratan y desarrollan a sus profesores, asegurando una educación de calidad y sostenible a través de la tecnología.
 
 <p align="center">
-  <img src="assets/images/chapterIV/edutalent.png" width="300" />
+  <img src="assetss/images/chapterIV/edutalent.png" width="300" />
 </p>
 
 Brand Name: 
