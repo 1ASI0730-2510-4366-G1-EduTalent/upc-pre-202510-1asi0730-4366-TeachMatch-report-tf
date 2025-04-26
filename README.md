@@ -59,6 +59,7 @@ En algunas secciones tenemos diferentes efectos para captar la atención del usu
 
 ## 4.2. Information Architecture
 
+Dado que TeachMatch gestiona un flujo funcional clave para la selección y contratación de docentes, es fundamental que el usuario tenga claridad sobre las etapas y procesos involucrados en nuestra aplicación. La información está presentada de manera categórica y secuencial, permitiendo al usuario desplazarse ebtre los diferentes modulos que forman parte nuestros procesos de selección, getión y contratación.
 
 ### 4.2.1. Organization Systems
 
