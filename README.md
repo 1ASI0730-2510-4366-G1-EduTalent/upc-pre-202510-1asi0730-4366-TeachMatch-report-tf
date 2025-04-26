@@ -274,7 +274,8 @@ BoundedContext: Evaluation
 
 Este módulo encapsula la lógica relacionada con la evaluación de los docentes postulantes. Incluye la ejecución de pruebas pedagógicas y psicométricas, la administración de entrevistas automatizadas y el cálculo de puntajes de compatibilidad.
 
-![image](https://github.com/user-attachments/assets/7a409a2e-6004-4e32-a386-b161c333f753)
+![Imagen de WhatsApp 2025-04-26 a las 04 07 08_3b8d510d](https://github.com/user-attachments/assets/5b1c84c3-921f-4934-8034-4404a0ef1d97)
+
 
 
 BoundedContext: Teacher Management
