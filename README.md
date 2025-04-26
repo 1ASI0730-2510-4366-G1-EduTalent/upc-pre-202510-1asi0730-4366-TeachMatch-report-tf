@@ -119,7 +119,7 @@ Creamos un repositorio en la organización de nuestro equipo en GitHub, donde su
 3. **Selección de Rama**: En el apartado de **Branch**, seleccionamos la rama **main** y guardamos los cambios.
 
 4. **Generación del Enlace**: Tras unos minutos, **GitHub** genera el enlace de acceso a nuestra página web.
-5. 
+
 
 ## **5.2. Landing Page, Services & Applications Implementation**
 
