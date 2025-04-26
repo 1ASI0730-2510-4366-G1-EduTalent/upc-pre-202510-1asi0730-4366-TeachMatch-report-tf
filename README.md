@@ -17,19 +17,26 @@ TeachMatch está diseñado para optimizar el proceso de selección y seguimiento
 
 Brand Name: 
 Teachmatch surgen de la combinación de las palabras “teach” que significa enseñar en ingles y “match” que hace referencia a hacer pares. Esta aplicación esta diseñada para agilizar y optimizar la selección del personal docente de instituciones educativas.
-<img src="assetss/images/chapterIV/teachmatch.jpg" width="300"/> 
 
+<p align="center">
+<img src="assetss/images/chapterIV/teachmatch.jpg" width="300"/> 
+</p>
 
 Colores: 
 Los colores desempeñan un papel importante en la primera impresión para los usuarios ya que les fa un perspectiva mas suave y agradable visualmente sobre nuestra aplicación incitándolos a navegar entre las diferentes funciones de las que disponemos. Usamos un color blanco para el color del texto estándar, ya que en combinación al color de fondo negro que escogimos se mezclan para mostrar información limpia y nítida fácil de captar para el espectador. Acompañado de un color celeste para resaltar botones y ciertas palabras claves que definen tanto startup como producto.
 
 Color de texto:
+<p align="center">
 <img src="assetss/images/chapterIV/texto.jpg" width="300"/> 
+</p>
 Color de background:
+<p align="center">
 <img src="assetss/images/chapterIV/background.jpg" width="300"/> 
+</p>
 Color principal:
+<p align="center">
 <img src="assetss/images/chapterIV/main.jpg" width="300"/> 
-
+</p>
 Tipografía:
 La tipografía juega un papel de suma importancia para establecer diferentes jerarquías entre la información que hay en el landing page presentado. Para el presente proyecto, utilizamos “Open Sans” importado desde “Google Font”. A nuestro parecer , un estilo moderno, limpio y legible para el usuario.
 Encabezados y sus respectivos píxeles:
