@@ -192,6 +192,19 @@ Dado que el desarrollo de la landing page se realizó de manera local y no se in
 
 #### **5.2.1.5. Execution Evidence for Sprint Review**
 
+
+En el primer sprint se alcanzó un progreso parcial en la implementación y despliegue de la landing page. Esta página cuenta con diversas secciones donde los usuarios pueden acceder a información clave sobre el producto y la startup. A continuación, se presentan algunas pruebas de este avance.
+
+
+
+
+
+
+
+
+
+
+
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 
 #### **5.2.1.7. Software Deployment Evidence for Sprint Review**
