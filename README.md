@@ -187,8 +187,7 @@ Para la entrega del Sprint 1, el enfoque principal fue el desarrollo completo, i
 
 Dado que el desarrollo de la landing page se realizó de manera local y no se integró directamente en GitHub durante el proceso, no contamos con commits o pruebas formales registradas en el repositorio. Sin embargo, la página fue revisada de manera continua dentro del grupo de trabajo para asegurar que se ajustara a las expectativas y necesidades del proyecto.
 
-**Enlace al repositorio:**  
-[https://github.com/1ASI0730-2510-4366-G1-EduTalent/Landing-Page](https://github.com/1ASI0730-2510-4366-G1-EduTalent/Landing-Page)
+**Enlace al repositorio:** [https://github.com/1ASI0730-2510-4366-G1-EduTalent/Landing-Page](https://github.com/1ASI0730-2510-4366-G1-EduTalent/Landing-Page)
 
 
 #### **5.2.1.5. Execution Evidence for Sprint Review**
