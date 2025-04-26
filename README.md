@@ -241,3 +241,12 @@ En este Sprint 1, el enfoque principal ha sido la creación de la Landing Page d
 
 
 #### **5.2.1.8. Team Collaboration Insights during Sprint**
+A continuación, se detallan las contribuciones realizadas por cada integrante del equipo durante el Sprint 1, como parte del proceso de evaluación del trabajo ejecutado y la dinámica de colaboración establecida.
+
+| Alumno                               | Actividad desarrollada                                                                                                                                                        |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| **Tony Do Santos Torres Cortez**     | Creación de la estructura básica de la página, implementación de la sección `"Hero"` (`hero`), desarrollo de la sección `"Sobre Nosotros"` (`about`)                  |
+| **Daniel Eduardo Rodriguez Aguilar** | Implementación del formulario de inicio de sesión (`login`), revisión y validación del código del formulario                                                               |
+| **Luis Sebastián Rubio Ortiz**       | Desarrollo del pie de página (`footer`), implementación de enlaces sociales, diseño visual del pie de página                                                                 |
+| **Sebastián Alonso Bustinza Muñoz**  | Pruebas de funcionalidad de la landing page, diseño de la estructura visual de la sección `"Hero"`                                                                         |
+| **Jean Pool Huaman De La Cruz**      | Revisión final de toda la landing page, ajustes finales de la sección `"Hero"`                                                                                              |
