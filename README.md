@@ -71,6 +71,8 @@ En nuestra aplicación TeachMatch, el sistema de etiquetas está cuidadosamente 
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+### Landing page
+
 | Attribute    | Value                                                                                          |
 |--------------|------------------------------------------------------------------------------------------------|
 | Charset      | UTF-8                                                                                           |
