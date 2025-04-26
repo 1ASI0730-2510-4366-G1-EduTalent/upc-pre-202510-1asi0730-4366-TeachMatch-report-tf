@@ -203,11 +203,13 @@ A continuación, se detalla la evidencia de actividad registrada en el repositor
 
 #### **5.2.1.4. Testing Suite Evidence for Sprint Review**
 
-Para la entrega del Sprint 1, el enfoque principal fue el desarrollo completo, implementación y despliegue de la Landing Page. En lugar de una suite de pruebas formal, se priorizó la implementación de las necesidades de los usuarios, asegurando que las secciones de la página fueran claras, intuitivas y fáciles de entender.
+Para la entrega del Sprint 1, nos centramos en el desarrollo completo, implementación y despliegue de la Landing Page de *EduTalent*. En este contexto, la sección de “Testing” se orientó principalmente a cumplir con los requerimientos del usuario, priorizando una estructura clara, accesible y fácil de navegar.
 
-Dado que el desarrollo de la landing page se realizó de manera local y no se integró directamente en GitHub durante el proceso, no contamos con commits o pruebas formales registradas en el repositorio. Sin embargo, la página fue revisada de manera continua dentro del grupo de trabajo para asegurar que se ajustara a las expectativas y necesidades del proyecto.
 
-**Enlace al repositorio:** [https://github.com/1ASI0730-2510-4366-G1-EduTalent/Landing-Page](https://github.com/1ASI0730-2510-4366-G1-EduTalent/Landing-Page)
+| Repository | Branch | Commit ID | Commit Message       | Committed on (Date) |
+|------------|--------|-----------|-----------------------|----------------------|
+| [https://github.com/1ASI0730-2510-4366-G1-EduTalent/Landing-Page](https://github.com/1ASI0730-2510-4366-G1-EduTalent/Landing-Page) | main   | 86941ab   | Update index.html     | 25/04/2025           |
+
 
 
 #### **5.2.1.5. Execution Evidence for Sprint Review**
