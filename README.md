@@ -128,7 +128,7 @@ Creamos un repositorio en la organización de nuestro equipo en GitHub, donde su
 
 ### **5.2.1. Sprint 1**
 #### **5.2.1.1. Sprint Planning 1**
-Un sprint es un periodo breve y estructurado en el que se desarrollan tareas concretas dentro de un proyecto, siguiendo los principios de metodologías ágiles como Scrum. El **Sprint #1**, que inicia el 08 de abril de 2025, tiene como objetivo desarrollar una landing page atractiva y funcional para **EduTalent**. Esta página busca captar la atención de los usuarios e informar de forma clara sobre los beneficios del sistema de contratación docente que ofrecemos.
+Un sprint es un periodo breve y estructurado en el que se desarrollan tareas concretas dentro de un proyecto, siguiendo los principios de metodologías ágiles como Scrum. El **Sprint #1**, que inicia el 08 de abril de 2025, tiene como objetivo desarrollar una landing page atractiva y funcional para **TEACHmatch**. Esta página busca captar la atención de los usuarios e informar de forma clara sobre los beneficios del sistema de contratación docente que ofrecemos.
 
 
 | **Sprint**                          | Sprint 1                                      |
@@ -150,20 +150,20 @@ Un sprint es un periodo breve y estructurado en el que se desarrollan tareas con
 
 
 #### **5.2.1.2. Sprint Backlog 1**
-En esta sección se detallan las tareas realizadas durante el **Sprint 1** del proyecto **EduTalent**.
+En esta sección se detallan las tareas realizadas durante el **Sprint 1** del proyecto **TEACHmatch**.
 Durante el primer sprint backlog, el equipo se planteó como meta iniciar y completar el desarrollo de la landing page. Para coordinar el trabajo y distribuir responsabilidades, se empleó Trello, una herramienta que facilitó la división de las historias de usuario en tareas concretas, asignándolas a los integrantes según sus fortalezas. El objetivo central de este sprint fue lograr una landing page completamente funcional y visualmente atractiva. 
 **Enlace de Trello:** [Accede al tablero de Trello para Sprint 1](https://trello.com/b/1zyQJDjB/edutalent)
 
 | **ID**       | **Historia de Usuario**                                | **ID** | **Tarea**                                 | **Descripción**                                                              | **Estimación (Horas)** | **Asignado a**                         | **Estado (Por Hacer / En Proceso / En Revisión / Hecho)** |
 |--------------|---------------------------------------------------------|--------|-------------------------------------------|-------------------------------------------------------------------------------|------------------------|----------------------------------------|-----------------------------------------------------------|
-| **E1-US01**  | Desarrollo de la Landing Page de EduTalent              | T1     | Crear estructura básica de la página       | Desarrollo inicial de la estructura HTML y diseño básico de la página         | 3                      | Tony Do Santos Torres Cortez            | Hecho                                                    |
+| **E1-US01**  | Desarrollo de la Landing Page de TEACHmatch              | T1     | Crear estructura básica de la página       | Desarrollo inicial de la estructura HTML y diseño básico de la página         | 3                      | Tony Do Santos Torres Cortez            | Hecho                                                    |
 | **E1-US02**  | Diseño de la página de inicio (Hero)                    | T2     | Implementar sección Hero                   | Diseño y desarrollo de la sección de bienvenida (Hero) en la landing          | 2                      | Tony Do Santos Torres Cortez            | Hecho                                                    |
 | **E1-US03**  | Creación de secciones informativas (About, Planes, etc.)| T3     | Crear sección About                        | Desarrollo de la sección "Sobre Nosotros" con el contenido textual y visual   | 2                      | Tony Do Santos Torres Cortez            | Hecho                                                    |
 | **E1-US04**  | Desarrollo de la funcionalidad de inicio de sesión      | T4     | Crear formulario de inicio de sesión       | Implementación de formulario y validación para el inicio de sesión            | 4                      | Daniel Eduardo Rodriguez Aguilar        | Hecho                                                    |
 | **E1-US05**  | Implementación de footer y enlaces de redes sociales    | T5     | Crear footer con enlaces sociales          | Desarrollo del pie de página con enlaces a redes sociales                     | 2                      | Luis Sebastián Rubio Ortiz              | Hecho                                                    |
 | **E1-US06**  | Funcionalidad y Pruebas                                 | T6     | Realizar pruebas de funcionalidad          | Pruebas de usabilidad para verificar que las secciones son funcionales        | 3                      | Sebastián Alonso Bustinza Muñoz         | Hecho                                                    |
 | **E1-US07**  | Revisión Final y Feedback                               | T7     | Revisión final de la landing page          | Revisión de todos los elementos de la landing page y feedback del equipo      | 1                      | Jean Pool Huaman De La Cruz             | Hecho                                                    |
-| **E1-US01**  | Desarrollo de la Landing Page de EduTalent              | T8     | Diseño de la página de inicio (Hero)       | Diseño de la imagen y la estructura de la página de inicio                    | 2                      | Sebastián Alonso Bustinza Muñoz         | Hecho                                                    |
+| **E1-US01**  | Desarrollo de la Landing Page de TEACHmatch              | T8     | Diseño de la página de inicio (Hero)       | Diseño de la imagen y la estructura de la página de inicio                    | 2                      | Sebastián Alonso Bustinza Muñoz         | Hecho                                                    |
 | **E1-US02**  | Diseño de la página de inicio (Hero)                    | T9     | Crear sección Hero (Revisión)              | Revisión final del diseño y ajustes de la sección Hero                        | 1                      | Jean Pool Huaman De La Cruz             | Hecho                                                    |
 | **E1-US04**  | Desarrollo de la funcionalidad de inicio de sesión      | T10    | Crear formulario de inicio de sesión (Rev.)| Revisión del código de validación y pruebas del formulario                    | 3                      | Daniel Eduardo Rodriguez Aguilar        | Hecho                                                    |
 | **E1-US05**  | Implementación de footer y enlaces de redes sociales    | T11    | Diseño de pie de página                    | Diseño de los elementos visuales del pie de página                             | 1                      | Luis Sebastián Rubio Ortiz              | Hecho                                                    |
@@ -202,7 +202,7 @@ A continuación, se detalla la evidencia de actividad registrada en el repositor
 
 
 
-Para la entrega del Sprint 1, nos centramos en el desarrollo completo, implementación y despliegue de la Landing Page de *EduTalent*. En este contexto, la sección de “Testing” se orientó principalmente a cumplir con los requerimientos del usuario, priorizando una estructura clara, accesible y fácil de navegar.
+Para la entrega del Sprint 1, nos centramos en el desarrollo completo, implementación y despliegue de la Landing Page de *TEACHmatch*. En este contexto, la sección de “Testing” se orientó principalmente a cumplir con los requerimientos del usuario, priorizando una estructura clara, accesible y fácil de navegar.
 
 
 | Repository | Branch | Commit ID | Commit Message       | Committed on (Date) |
@@ -232,7 +232,7 @@ En el primer sprint se alcanzó un progreso parcial en la implementación y desp
 
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 
-En este Sprint 1, el enfoque principal ha sido la creación de la Landing Page de la aplicación **EduTalent**, por lo que no se ha avanzado aún en la documentación de los servicios. No obstante, está previsto que dicha documentación se desarrolle y se incluya en los próximos sprints, conforme se avance en el desarrollo de los componentes funcionales del sistema.
+En este Sprint 1, el enfoque principal ha sido la creación de la Landing Page de la aplicación **TEACHmatch**, por lo que no se ha avanzado aún en la documentación de los servicios. No obstante, está previsto que dicha documentación se desarrolle y se incluya en los próximos sprints, conforme se avance en el desarrollo de los componentes funcionales del sistema.
 
 
 
