@@ -14,10 +14,10 @@
         </tr>
         <tr>
             <td colspan="2" style="border: 1px solid black; padding: 8px; vertical-align: top;">Marca y Logo</td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>TeachMatch</strong><br><img src="../chapter2/assets/TeachMatchLogo.jpg" alt="TeachMatch Logo" style="max-width:100px; margin-top:8px;"></td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Edutalent</strong><br><img src="../chapter2/assets/EdutalentLogo.jpeg" alt="Edutalent Logo" style="max-width:100px; margin-top:8px;"></td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Worky</strong><br><img src="../chapter2/assets/WorkyLogo.jpeg" alt="Worky Logo" style="max-width:100px; margin-top:8px;"></td>
-            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Talent.com</strong><br><img src="../chapter2/assets/TalentLogo.png" alt="Talent Logo" style="max-width:100px; margin-top:8px;"></td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>TeachMatch</strong><br><img src="../chapter-2/assets/TeachMatchLogo.jpg" alt="TeachMatch Logo" style="max-width:100px; margin-top:8px;"></td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Edutalent</strong><br><img src="../chapter-2/assets/EdutalentLogo.jpeg" alt="Edutalent Logo" style="max-width:100px; margin-top:8px;"></td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Worky</strong><br><img src="../chapter-2/assets/WorkyLogo.jpeg" alt="Worky Logo" style="max-width:100px; margin-top:8px;"></td>
+            <td style="border: 1px solid black; padding: 8px; vertical-align: top;"><strong>Talent.com</strong><br><img src="../chapter-2/assets/TalentLogo.png" alt="Talent Logo" style="max-width:100px; margin-top:8px;"></td>
         </tr>
         <tr>
             <td rowspan="2" style="border: 1px solid black; padding: 8px; vertical-align: top; width: 15%;"><strong>Perfil</strong></td>
