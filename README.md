@@ -71,9 +71,20 @@ En nuestra aplicación TeachMatch, el sistema de etiquetas está cuidadosamente 
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+| Attribute    | Value                                                                                          |
+|--------------|------------------------------------------------------------------------------------------------|
+| Charset      | UTF-8                                                                                           |
+| Viewport     | width=device-width, initial-scale=1.0                                                           |
+| CSS Link     | css/style.css                                                                                 |
+| Title        | TeachMatch - Tu mejor clase empieza con un match                                                |
+| Description  | Centrada en optimizar la gestion y seleccion de profesionales para el área docente
+| Keywords     |contratacion de docentes, gestión educativa, capacitación de docentes, vacantes escolares, educación"> |
+| Author       | EduTalent Team                                                                                 |
 
 
 ### 4.2.4. Searching Systems
+
+En TEACHmatch, siempre priorizaremos la experiencia y agilidad en procesos. Entre las principales funcionalidades añadiremos filtros para encontrar vacantes y/o personal que cumpla con características en específico que beneficien ambas partes por igual. De igual manera, se implementará un historial para acceder a información previamente buscada rápidamente.
 
 ### 4.2.5. Navigation Systems
 
