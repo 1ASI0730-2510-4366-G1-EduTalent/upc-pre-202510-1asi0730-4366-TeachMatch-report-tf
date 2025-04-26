@@ -129,6 +129,11 @@ Partiendo del Landing page Wireframe, pudimos dar retoques finales para finalmen
 
 
 <p align="center">
+<img src="assetss/images/chapterIV/Resultado2.jpg" width="300"/> 
+</p>
+
+
+<p align="center">
 <img src="assetss/images/chapterIV/Resultado3.jpg" width="300"/> 
 </p>
 
