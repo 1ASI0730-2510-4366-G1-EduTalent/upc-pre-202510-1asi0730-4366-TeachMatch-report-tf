@@ -57,6 +57,23 @@ Pantalla de monitoreo del desempeño de los docentes recién contratados. Permit
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+Presentamos los diagramas de flujo de la aplicación web, proporcionando una visión clara de la navegación y las interacciones entre las diferentes páginas y funcionalidades. Los diagramas de flujo son representaciones visuales que muestran la secuencia de acciones y decisiones que los usuarios pueden tomar.
+
+Link a los Wireframes de la Web Application (Figma): https://www.figma.com/proto/KZdBg10Rl4d5UXpjeWWIIG/Wireframes-Teachteam?node-id=2-24&p=f&t=hU2sNT0LfeCNwo3m-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A24
+
+Segment objetivo: Instituciones Educativas
+- **User Goal:** Como director de una institución educativa deseo ver mis vacantes de trabajo abiertas.
+![image](https://github.com/user-attachments/assets/6d81709b-b686-4cce-b854-dc30b5d33811)
+
+El director se dirige a la sección "Job Openings", luego podrá visualizar todas sus vacantes públicas.
+- **User Goal:**  Como director de una institución educativa deseo ver a los candidatos de mis ofertas de trabajo abiertas.
+![image](https://github.com/user-attachments/assets/4ad8b1cc-d63d-4822-9e3b-d312d6708dbd)
+
+El director se dirige a la sección "Candidates", luego podrá visualizar todos los candidatos.
+- **User Goal:** Como director de una institución educativa deseo hacer seguimiento a cada docente.
+![image](https://github.com/user-attachments/assets/1e62388b-d88d-4988-9a3a-004027cb8579)
+
+El director se dirige a la sección "Teachers", luego podrá hacer seguimiento a cada docente de la institución.
 
 ### 4.4.3. Web Applications Mock-ups.
 En esta sección, presentamos los mock-ups de la aplicación web, proporcionando una visión detallada de la apariencia final de las diferentes páginas y funcionalidades. Son representaciones visuales de alta fidelidad que muestran el diseño y la interfaz de usuario, permitiendo una comprensión clara de cómo funcionará la aplicación.
@@ -91,8 +108,27 @@ Pantalla de monitoreo del desempeño de los docentes recién contratados. Permit
 
 
 ### 4.4.4. Web Applications User Flow Diagrams
+Link a los Wireframes de la Web Application (Figma): https://www.figma.com/proto/uR6pQDBmEuAIShow0wWztY/Mock-ups-Teachteam?node-id=1-137&p=f&t=xvl7vadXUDr0PxKK-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A137
+
+Segment objetivo: Instituciones Educativas
+- **User Goal:** Como director de una institución educativa deseo ver mis vacantes de trabajo abiertas.
+![image](https://github.com/user-attachments/assets/4c1e6397-83be-4ada-95f1-8def6265653b)
+
+El director se dirige a la sección "Job Openings", luego podrá visualizar todas sus vacantes públicas.
+- **User Goal:**  Como director de una institución educativa deseo ver a los candidatos de mis ofertas de trabajo abiertas.
+![image](https://github.com/user-attachments/assets/68949fff-de86-4fc1-9453-6c41f1364ea5)
+
+El director se dirige a la sección "Candidates", luego podrá visualizar todos los candidatos.
+- **User Goal:** Como director de una institución educativa deseo hacer seguimiento a cada docente.
+![image](https://github.com/user-attachments/assets/37e4e2cf-7019-405a-87d1-e6c7a5b34e2c)
+
+El director se dirige a la sección "Teachers", luego podrá hacer seguimiento a cada docente de la institución.
 
 ## 4.5. Web Applications Prototyping
+En esta sección, se presentan los prototipos de la aplicación web, los cuales son fundamentales para validar y refinar las decisiones de diseño de interacción. Los principales criterios para estas decisiones incluyen la usabilidad, accesibilidad, consistencia y eficiencia. Estos prototipos permiten a los diseñadores y desarrolladores evaluar cómo los usuarios interactúan con la aplicación, asegurando que la experiencia de usuario sea intuitiva y satisfactoria.
+
+Link Application Prototype (Figma): https://www.figma.com/proto/uR6pQDBmEuAIShow0wWztY/Mock-ups-Teachteam?node-id=1-137&p=f&t=xvl7vadXUDr0PxKK-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A137
+![image](https://github.com/user-attachments/assets/96f9feef-4cf8-4d47-8c79-2e10a4e5357a)
 
 ## 4.6. Domain-Driven Software Architecture
 
