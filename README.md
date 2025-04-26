@@ -157,20 +157,122 @@ Los diagramas de contenedores muestran los diferentes contenedores que componen 
 ![Container](/assetss/images/chapterIV/containerweb.png)
 ### 4.6.3. Software Architecture Components Diagrams
 
-
 ## 4.7. Software Object-Oriented Design
 
 En esta sección se presenta el diseño de software orientado a objetos para TeachMatch. Se incluyen diagramas de clases y un diccionario de clases que describen la estructura y los atributos de las principales entidades del sistema.
 
 ### 4.7.1. Class Diagrams
 El diagrama de clases proporciona una representación visual de las clases del sistema, sus atributos y las relaciones entre ellas.
-
 A continuación, presentaremos los diagramas de clases, los cuales son una representación gráfica de las clases y objetos que conforman a TeachMatch. Estos diagramas son esenciales para comprender la estructura de TeachMatch.
-
-
+![image](https://github.com/user-attachments/assets/fc9ecd49-d5ed-42f5-8684-489addf07369)
+Se define una jerarquía donde Docente y Coordinador heredan de Usuario. El Coordinador administra vacantes, evaluaciones, postulaciones y supervisa docentes, mientras que el Docente puede postular a vacantes, recibir capacitaciones, realizar evaluaciones y ser evaluado en su desempeño.
 
 ### 4.7.2. Class Dictionary
+## 1. Clase: *Usuario*
+*Descripción:* Representa a cualquier persona registrada en el sistema, ya sea docente o coordinador académico.
+
+| Atributo | Tipo de Dato | Descripción |
+|:---------|:-------------|:------------|
+| id | UUID | Identificador único del usuario. |
+| nombre | string | Nombre completo del usuario. |
+| email | string | Correo electrónico del usuario. |
+| rol | string | Rol asignado (Docente o Coordinador). |
+
+---
+
+## 2. Clase: *Docente* (hereda de Usuario)
+*Descripción:* Representa a los docentes que postulan o trabajan dentro de la plataforma.
+
+| Atributo | Tipo de Dato | Descripción |
+|:---------|:-------------|:------------|
+| area | string | Área de enseñanza especializada. |
+| fechaIngreso | date | Fecha de ingreso a la institución educativa. |
+
+---
+
+## 3. Clase: *Coordinador* (hereda de Usuario)
+*Descripción:* Representa a los coordinadores académicos que gestionan los procesos de selección y seguimiento docente.
+
+| Atributo | Tipo de Dato | Descripción |
+|:---------|:-------------|:------------|
+| area | string | Área académica que coordina. |
+| fechaIngreso | date | Fecha de inicio de funciones como coordinador. |
+
+---
+
+## 4. Clase: *Vacante*
+*Descripción:* Representa las ofertas laborales creadas por los coordinadores para atraer nuevos docentes.
+
+| Atributo | Tipo de Dato | Descripción |
+|:---------|:-------------|:------------|
+| id | UUID | Identificador único de la vacante. |
+| titulo | string | Título del puesto ofertado. |
+| area | string | Área de especialidad de la vacante. |
+| fechaPublicacion | date | Fecha en que se publica la vacante. |
+| estado | string | Estado actual de la vacante (Activa o Cerrada). |
+
+---
+
+## 5. Clase: *Postulacion*
+*Descripción:* Representa las aplicaciones realizadas por docentes a vacantes disponibles.
+
+| Atributo | Tipo de Dato | Descripción |
+|:---------|:-------------|:------------|
+| id | UUID | Identificador único de la postulación. |
+| docenteId | UUID | Identificador del docente que postula. |
+| vacanteId | UUID | Identificador de la vacante aplicada. |
+| fechaPostulacion | date | Fecha en que se realiza la postulación. |
+| estado | string | Estado de la postulación (Pendiente, Aceptada, Rechazada). |
+
+---
+
+## 6. Clase: *Evaluacion*
+*Descripción:* Representa las evaluaciones psicométricas o pedagógicas que deben completar los postulantes.
+
+| Atributo | Tipo de Dato | Descripción |
+|:---------|:-------------|:------------|
+| id | UUID | Identificador único de la evaluación. |
+| tipo | string | Tipo de evaluación (Pedagógica o Psicométrica). |
+| fecha | date | Fecha de realización de la evaluación. |
+| resultado | int | Resultado obtenido por el postulante. |
+
+---
+
+## 7. Clase: *Entrevista*
+*Descripción:* Representa las entrevistas automatizadas o en vivo realizadas a los postulantes.
+
+| Atributo | Tipo de Dato | Descripción |
+|:---------|:-------------|:------------|
+| id | UUID | Identificador único de la entrevista. |
+| preguntas | string | Preguntas realizadas durante la entrevista. |
+| observaciones | string | Observaciones o comentarios sobre la entrevista. |
+
+---
+
+## 8. Clase: *Capacitacion*
+*Descripción:* Representa las capacitaciones ofrecidas a los docentes luego de ser contratados.
+
+| Atributo | Tipo de Dato | Descripción |
+|:---------|:-------------|:------------|
+| id | UUID | Identificador único de la capacitación. |
+| docenteId | UUID | Identificador del docente capacitado. |
+| estado | string | Estado de la capacitación (Completada, En proceso, Pendiente). |
+| fecha | date | Fecha de la capacitación. |
+| recursoURL | string | Enlace a los recursos de capacitación. |
+
+---
+
+## 9. Clase: *EvaluacionDesempeno*
+*Descripción:* Representa las evaluaciones de desempeño aplicadas a los docentes ya contratados.
+
+| Atributo | Tipo de Dato | Descripción |
+|:---------|:-------------|:------------|
+| id | UUID | Identificador único de la evaluación de desempeño. |
+| docenteId | UUID | Identificador del docente evaluado. |
+| puntaje | int | Puntaje obtenido en la evaluación. |
+| fecha | date | Fecha en que se realizó la evaluación. |
+| comentarios | string | Comentarios adicionales sobre el desempeño. |
 
 ## 4.8. Database Design
-
 ### 4.8.1. Database Diagram
+![image](https://github.com/user-attachments/assets/2e8e3114-c0b8-4387-a30b-32f5d574b305)
