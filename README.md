@@ -110,9 +110,44 @@ Para garantizar la coherencia y calidad en el desarrollo de nuestra Landing Page
 
 ### **5.1.4. Software Deployment Configuration**
 
+Creamos un repositorio en la organización de nuestro equipo en GitHub, donde subimos los archivos necesarios para desplegar la landing page. El despliegue se realizó mediante **GitHub Pages**.
+
+1. **Subida de Archivos**: Subimos los archivos requeridos al repositorio correspondiente.
+
+2. **Configuración de GitHub Pages**: Luego, accedemos a **Settings** y localizamos la opción **Pages**.
+
+3. **Selección de Rama**: En el apartado de **Branch**, seleccionamos la rama **main** y guardamos los cambios.
+
+4. **Generación del Enlace**: Tras unos minutos, **GitHub** genera el enlace de acceso a nuestra página web.
+5. 
+
 ## **5.2. Landing Page, Services & Applications Implementation**
+
+
+
+
 ### **5.2.1. Sprint 1**
 #### **5.2.1.1. Sprint Planning 1**
+Un sprint es un periodo breve y estructurado en el que se desarrollan tareas concretas dentro de un proyecto, siguiendo los principios de metodologías ágiles como Scrum. El **Sprint #1**, que inicia el 08 de abril de 2025, tiene como objetivo desarrollar una landing page atractiva y funcional para **EduTalent**. Esta página busca captar la atención de los usuarios e informar de forma clara sobre los beneficios del sistema de contratación docente que ofrecemos.
+
+
+| **Sprint**                          | Sprint 1                                      |
+|-------------------------------------|-----------------------------------------------|
+| **Sprint Planning Background**      |                                               |
+| **Date**                             | 08/04/2025                                    |
+| **Time**                             | 19:00 horas (GMT-5)                           |
+| **Location**                         | Modalidad remota a través de la plataforma WhatsApp |
+| **Prepared By**                      |                                               |
+| **Attendees (Planning Meeting)**     | Sebastián Alonso Bustinza Muñoz<br>Jean Pool Huamán De La Cruz<br>Daniel Eduardo Rodríguez Aguilar<br>Luis Sebastián Rubio Ortiz<br>Tony Do Santos Torres Cortez |
+| **Sprint 0 Review Summary**          | Dado que es nuestro sprint inicial de desarrollo, aún no se ha realizado un resumen del sprint. |
+| **Sprint 0 Retrospective Summary**   | Al tratarse del sprint inicial, todavía no se han identificado áreas de mejora o ajustes de proceso. |
+| **Sprint 1 Goal**                    | Durante este sprint, se priorizó el desarrollo de la landing page. Para ello, se revisaron y ajustaron tanto los textos como el diseño previamente elaborado en Figma. Al concluir el sprint, se espera que la página esté desplegada en GitHub Pages, permitiendo que cualquier usuario pueda acceder a ella mediante un enlace público. |
+| **Sprint 1 Velocity**                | 24                                            |
+| **Sum of Story Points**             | 24                                            |
+
+
+
+
 
 #### **5.2.1.2. Sprint Backlog 1**
 
