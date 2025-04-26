@@ -36,10 +36,6 @@
                 <td style="border: 1px solid ;">Jean Pool Huaman De La Cruz</td>
                 <td style="border: 1px solid ;">U20201E781</td>
             </tr>
-             <tr>
-                <td style="border: 1px solid ;">Nombre Alumno</td>
-                <td style="border: 1px solid ;">Codigo</td>
-            </tr>
         </tbody>
     </table>
 </div>
