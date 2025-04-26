@@ -195,6 +195,10 @@ Dado que el desarrollo de la landing page se realizó de manera local y no se in
 
 En el primer sprint se alcanzó un progreso parcial en la implementación y despliegue de la landing page. Esta página cuenta con diversas secciones donde los usuarios pueden acceder a información clave sobre el producto y la startup. A continuación, se presentan algunas pruebas de este avance.
 
+<img src= "assets/img1.png">
+<img src= "assets/img2.png">
+<img src= "assets/img3.png">
+<img src= "assets/img4.png">
 
 
 
