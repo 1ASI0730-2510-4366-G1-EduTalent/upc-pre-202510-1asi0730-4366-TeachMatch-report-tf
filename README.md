@@ -123,7 +123,24 @@ A continuación el [figma](https://www.figma.com/design/9dWW3UP6FEpxdz0zM3Tkdn/U
 
 Partiendo del Landing page Wireframe, pudimos dar retoques finales para finalmente conseguir el landing page que queriamos. Determinamos que fue clave el boceto del mismo ya que nos ayudo a decidir y asegurar la legiblidad y flexbilidad de la página manteniendo el mismo esquema presentado anteriormente.
 
+<p align="center">
+<img src="assetss/images/chapterIV/Resultado1.jpg" width="300"/> 
+</p>
 
+
+<p align="center">
+<img src="assetss/images/chapterIV/Resultado3.jpg" width="300"/> 
+</p>
+
+
+<p align="center">
+<img src="assetss/images/chapterIV/Resultado4.jpg" width="300"/> 
+</p>
+
+
+<p align="center">
+<img src="assetss/images/chapterIV/Resultado5.jpg" width="300"/> 
+</p>
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
