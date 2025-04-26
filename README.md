@@ -284,7 +284,7 @@ Teniendo en cuenta el análisis competitivo, se han desarrollado las siguientes 
 7. ¿Qué funcionalidad te facilitaría más la experiencia de encontrar, postularte y crecer dentro de una institución?
 
 ### 2.2.2. Registro de entrevistas
-
+## Segmento 1: 
 <b>Nombre:</b> Luis Alejo - <b>Edad:</b> 28 años - <b>Ocupación:</b> Director - <b>Browser:</b> Safari - <b>Device:</b> Computadora Personal Mac
 
 ![image](https://github.com/user-attachments/assets/6a4db6d9-9acd-47b4-b2e5-bde335f660db)
@@ -294,6 +294,11 @@ Teniendo en cuenta el análisis competitivo, se han desarrollado las siguientes 
         
 Luis Alejo, director académico de 28 años, explica que actualmente gestionan la contratación docente de forma semiestructurada, combinando revisión de CV, entrevistas y clases modelo, aunque aún enfrentan retos para evaluar habilidades blandas y competencias digitales. Utilizan herramientas como Google Workspace para la gestión documental y un sistema interno para horarios, pero el seguimiento del desempeño docente sigue realizándose de manera manual. Considera que la automatización de estos procesos es una necesidad urgente para optimizar el tiempo y mejorar la calidad educativa. Además, destaca la importancia de asegurar la compatibilidad de los docentes con los valores institucionales y valora especialmente las plataformas que automaticen el reclutamiento, la evaluación, la gestión documental y el seguimiento de la formación continua.
 </p>
+
+## Segmento 2: 
+
+
+
 
 ### 2.2.3. Análisis de entrevistas
 
