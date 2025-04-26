@@ -347,7 +347,7 @@ Empathy map de Directora (Institucion educativa)
 En esta sección describimos el proceso que seguimos para construir los As-Is Scenario Mapping de cada segmento objetivo. Partimos de una lluvia de ideas individual, luego revisamos en equipo las acciones reales de los usuarios, identificamos las fases clave de sus procesos.
 ![Image Alt](assets/AsIs.jpg)
 
-Link para visualizar el Scenario Mapping: https://miro.com/welcomeonboard/RlVVeWdnSVBCR3V3TmlDTDlKSFBhL1JvTnJ1K1g5NExnOXFqV2wzWXdPeXRGMVkzdU5JdWJxQ3dvY3lDc2h3YVFqRlg2bzJhOFI5UnQyb2NOWEZsZHZ2cFlmOUZwQUM5RGxNeDFVc3ZZUmJ1clN2SDdJckIrYW43TlozakRoa013VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=676695154109
+Link para visualizar el Scenario Mapping: [Scenario Mapping](https://miro.com/welcomeonboard/RlVVeWdnSVBCR3V3TmlDTDlKSFBhL1JvTnJ1K1g5NExnOXFqV2wzWXdPeXRGMVkzdU5JdWJxQ3dvY3lDc2h3YVFqRlg2bzJhOFI5UnQyb2NOWEZsZHZ2cFlmOUZwQUM5RGxNeDFVc3ZZUmJ1clN2SDdJckIrYW43TlozakRoa013VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=676695154109)
 
 ## 2.4. Ubiquitous Language
 
